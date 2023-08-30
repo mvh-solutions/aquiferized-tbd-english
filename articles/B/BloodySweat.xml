@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="BloodySweat">
+  <title>Bloody Sweat*</title>
+  <body>
+<p class="h1">BLOODY SWEAT*</p>
+<p class="fl">Rare medical condition called hemohydrosis, thought to result from hemorrhage of small blood vessels into the sweat glands. It occurs only in extreme emotional stress and is of biblical interest because of the reference to Jesus in the Garden of Gethsemane before his betrayal: “And being in agony He was praying very fervently; and His sweat became like drops of blood, falling down upon the ground” (<a href="?bref=Luke.22.44">Lk 22:44</a>, <span class="sc">nasb</span>). Although some translations make it appear that Jesus actually sweat blood, the Greek text is clearly making a comparison. That is, sweat poured off of Jesus “as though he were bleeding,” an apt analogy for Luke, a physician, to make.</p>
+<include_items src="../Textboxes/Textboxes.xml" name="TheBloodySweatPassage"/>
+  </body>
+</item>

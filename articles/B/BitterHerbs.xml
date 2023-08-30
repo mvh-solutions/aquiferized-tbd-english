@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="BitterHerbs">
+  <title>Bitter Herbs</title>
+  <body>
+<p class="h1">BITTER HERBS</p>
+<p class="fl">Some kind of bitter vegetable(s), perhaps a certain variety of lettuce. The people of Israel were commanded to eat bitter herbs, roast lamb, and unleavened bread on the night when the Lord inflicted the plague of death on all the Egyptian firstborn (<a href="?bref=Exod.12.8-11">Ex 12:8-11</a>).</p>
+<p><span class="ital">See also</span> <a href="?item=Plants_Article_TyndaleOpenBibleDictionary">Plants</a>.</p>
+<include_items src="../Textboxes/Textboxes.xml" name="TheSignificanceOfBitterHerbs"/>
+  </body>
+</item>
