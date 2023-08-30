@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Ossuary">
+  <title>Ossuary*</title>
+  <body>
+<p class="h1">OSSUARY*</p>
+<p class="fl">A small stone coffin (Latin, <span class="ital">ossuarium</span>), vase, or casket for the reception of the calcined remains of the dead, or a sepulchral house, where the bones of the dead were deposited. <span class="ital">Sarcophagus</span> was the name given by the Greeks and Romans to a big stone coffin. Some religious ideas were involved in calling a coffin a “body eater” (Greek, <span class="greek">sarx</span><span class="ital">,</span> “flesh,” and <span class="greek">phagein</span><span class="ital">,</span> “to eat”). In many cases, the burial was not completed until the bones were taken up from the earth or from the sarcophagus. The bones were cleaned and put into their final deposit, that is, into an ossuary, usually a small coffin of stone. The tendency to postpone the final burial, where it involves exhumation or the collection of bones, is accentuated by making a common ossuary for a number of the departed. This exhuming and collecting the bones is connected with the idea of final reunion with one’s fathers.</p>
+<include_items src="../Textboxes/Textboxes.xml" name="TheOssuaryOfTheStCatherineMonastery"/>
+  </body>
+</item>
