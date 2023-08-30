@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Mitylene">
+  <title>Mitylene</title>
+  <body>
+<p class="h1">MITYLENE</p>
+<p class="fl">Main city on the island of Lesbos in the Aegean Sea near the northwestern coast of Asia Minor. Mitylene was a seaport with two harbors. Originally it had been built on a small island separate from Lesbos. In NT times it was connected with the main island by a raised roadway across a narrow stretch of water. <a href="?bref=Acts.20.14">Acts 20:14</a> identifies Mitylene as one of the overnight stopping places where Paul and his traveling companions lodged as they journeyed by ship toward Jerusalem.</p>
+<include_items src="../Maps/Maps.xml" name="Mitylene"/>
+</body>
+</item>
