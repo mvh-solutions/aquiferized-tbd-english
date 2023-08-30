@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Chariot">
+  <title>Chariot</title>
+  <body>
+<p class="h1">CHARIOT</p>
+<include_items src="../Pictures/Pictures.xml" name="AncientAssyrianChariot"/>
+<p class="fl">Ancient two-wheeled vehicle pulled by animals, usually horses, and normally thought of as an instrument of war. Chariots were also used as a means of transportation for persons of rank or wealth, and for hunting.</p>
+<p><span class="ital">See also</span> <a href="?item=Travel_Article_TyndaleOpenBibleDictionary">Travel</a>; <a href="?item=Warfare_Article_TyndaleOpenBibleDictionary">Warfare</a>.</p>
+  </body>
+</item>
