@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Dionysius">
+  <title>Dionysius</title>
+  <body>
+<p class="h1">DIONYSIUS</p>
+<p class="fl">Prominent citizen of Athens; a member of the Areopagus, the Athenian supreme court, and one of Paul’s few converts during his brief ministry at Athens (<a href="?bref=Acts.17.34">Acts 17:34</a>).</p>
+<include_items src="../Pictures/Pictures.xml" name="TheaterOfDionysiusInAthens"/>
+</body>
+</item>
