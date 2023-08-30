@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Rhegium">
+  <title>Rhegium</title>
+  <body>
+<p class="h1">RHEGIUM</p>
+<p class="fl">Important Italian harbor visited by Paul in his journey to Rome (<a href="?bref=Acts.28.13">Acts 28:13</a>). From Malta, Paul’s ship traveled north to the Sicilian capital of Syracuse. Then, in the absence of a south wind, they may have tacked into the Strait of Messina, finding good harbor at Rhegium. Another south wind carried them from Rhegium to Puteoli in the Bay of Naples—the ship’s destination, since Puteoli was southern Italy’s chief port, receiving the great Alexandrian grain vessels.</p>
+<p>The Strait of Messina was well known to every Roman navigator. Passage here was necessary in order to gain access to Italy’s west coast, but its obstacles were numerous. Obstructions, shallows, and the narrow width forced ships to stay at Rhegium until an adequate south wind arose.</p>
+<include_items src="../Maps/Maps.xml" name="Rhegium"/>
+<p>The name Rhegium (modern Reggio or Reggio di Calabria) may have come from a Greek verb meaning “to tear” or “rend.” Sicily, it seemed, had been “torn from the mainland” and Rhegium was the nearest Italian port.</p>
+  </body>
+</item>
