@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Hermes">
+  <title>Hermes</title>
+  <body>
+<p class="h1">HERMES</p>
+<p class="list">1. Greek god and the son of Zeus by Maia. He was identified with Mercury in the Roman pantheon of deities. In Greek mythology, Hermes was the messenger of the gods and the escort of the dead to hades. He was the god of fertility, the patron of music, the guardian of travelers, and the god of eloquent speech.</p>
+<include_items src="../Pictures/Pictures.xml" name="HermesOrMercury"/>
+<p class="list-text">While ministering at Lystra, Paul was acclaimed by its people to be Hermes because of his miraculous work and role as chief speaker. The Lystrans thought Paul was a god visiting them in bodily form (<a href="?bref=Acts.14.11-12">Acts 14:11-12</a>, <span class="sc">kjv</span> “Mercurius”).</p>
+<p class="list">2. Christian to whom Paul sent greetings in his letter to Rome (<a href="?bref=Rom.16.14">Rom 16:14</a>).</p>
+  </body>
+</item>

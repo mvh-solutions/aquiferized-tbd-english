@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Hieroglyphics">
+  <title>Hieroglyphics*</title>
+  <body>
+<p class="h1">HIEROGLYPHICS*</p>
+<include_items src="../Pictures/Pictures.xml" name="EgyptianHieroglyphics"/>
+<p class="fl">Early form of writing by using pictorial signs. The Egyptian, Hittite, Mayan, and Cretan civilizations—each one independently of the others—developed hieroglyphics. The hieroglyphics with which we are most familiar are Egyptian. They began as pictures of the objects they represent, so that a circle with rays emanating from the circumference would indicate the sun. This type of script began to be used in Egypt about 3000 <span class="era">BC</span>. It was usually carved in stone but sometimes was written on papyrus with a reed pen. As papyrus began to be used more often, the symbols employed for the stone engravings became much more awkward to use on papyrus. The scribes and bookkeepers who used these symbols developed a cursive form of hieroglyphics called hieratic. This was later refined to a shorthand script called demotic.</p>
+<p>As the script changed, so did the meaning of the signs. These signs began as picture-symbols, but they came to represent the sounds of the symbol. Thus we might use a ham pictorially for the verb “meet” because a ham is a type of meat, a word that sounds like “meet.” The Egyptians did not convert these signs into an alphabet as did many of their neighbors.</p>
+<p>The use of hieroglyphics in Egypt lasted until the fifth century <span class="era">AD</span>, when it was finally replaced by the alphabetic scripts of Latin and Greek. During the Middle Ages, there was little interest in or knowledge of hieroglyphics. During the Renaissance, interest revived, but scholars were unable to interpret the script. Its meaning remained a mystery until members of Napoleon’s expedition to Egypt in 1779 discovered the Rosetta Stone with inscriptions in Greek, demotic, and hieroglyphic. Twenty-five years later the Frenchman Jean-Francois Champollion deciphered the stone.</p>
+  </body>
+</item>
