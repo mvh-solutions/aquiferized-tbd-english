@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Salamis">
+  <title>Salamis</title>
+  <body>
+<p class="h1">SALAMIS</p>
+<p class="fl">Seaport on the eastern shore of Cyprus where Barnabas and Saul landed near the beginning of their first missionary journey. They proclaimed the word of God in the synagogues of the Jews in this town (<a href="?bref=Acts.13.5">Acts 13:5</a>). Tradition states that the city was 1,000 years old when the missionaries arrived, having been founded by Teucer after his return from the Trojan war.</p>
+<p>For centuries, it was a major seaport, shipping copper, timber, ceramics, and agricultural products to Europe, Africa, and Asia. The Ptolemies encouraged Jews to settle there, which is why Barnabas and Saul found Jewish synagogues there. Barnabas’s tomb is at nearby Ali Barnaba monastery (discovered in <span class="era">AD</span> 477).</p>
+<include_items src="../Maps/Maps.xml" name="TheBeginningofPaulandBarnabassFirstJourney"/>
+<p>After the partial destruction of the city by Hadrian in <span class="era">AD</span> 116 and further damage by earthquakes in <span class="era">AD</span> 332 and 342, it was rebuilt by the Byzantine emperor Constantius II (<span class="era">AD</span> 336–361). Prior to <span class="era">AD</span> 332, Salamis had the largest Jewish community on the island. Afterward, it apparently contained the largest Christian community, as it became the metropolitan see of the island.</p>
+<p>After the destruction of the city by the Saracens in <span class="era">AD</span> 647, the harbor silted up and the site was abandoned. During the centuries of Ottoman dominance, the harbor was replaced by the port of Famagusta.</p>
+<include_items src="../Textboxes/Textboxes.xml" name="ArchaeologicalFindsAtSalamis"/>
+  </body>
+</item>
