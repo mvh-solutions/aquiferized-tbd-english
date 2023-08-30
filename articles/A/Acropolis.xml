@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Acropolis">
+  <title>Acropolis*</title>
+  <body>
+<p class="h1">ACROPOLIS*</p>
+<p class="fl">This term is a combination of the Greek <span class="greek">akros</span> (“highest”) <span class="greek">polis</span> (“city”), which originally applied to any fortified natural stronghold or citadel in ancient Greece. The typical acropolis was built on a hill as a place of refuge. The slopes and base of the hill often became the site of a city. The acropolis of Athens was surmounted by the Parthenon, a Doric temple for Athena, Greek goddess of wisdom. Built in the fifth century <span class="era">BC</span>, it is the masterpiece of Greek architecture. <a href="?bref=Acts.17.34">Acts 17:34</a> records that Paul preached at the Areopagus (“hill of Ares”), a low hill northwest of the acropolis and there converted a member of the Athenian council.</p>
+<include_items src="../Pictures/Pictures.xml" name="TheAcropolisInAthensWithTheParthenon"/>
+</body>
+</item>
