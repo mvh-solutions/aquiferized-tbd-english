@@ -1,0 +1,415 @@
+<items release="1.6">
+<item typename="DictionaryLetter" name="U" product="TyndaleBibleDict">
+  <body>
+<p class="h1">U</p>
+  <p class="toc"><a href="?item=Ucal_Article_TyndaleOpenBibleDictionary">Ucal*</a></p>
+<p class="toc"><a href="?item=Uel_Article_TyndaleOpenBibleDictionary">Uel</a></p>
+<p class="toc"><a href="?item=Ugarit_Article_TyndaleOpenBibleDictionary">Ugarit*</a></p>
+<p class="toc"><a href="?item=Ulai_Article_TyndaleOpenBibleDictionary">Ulai</a></p>
+<p class="toc"><a href="?item=Ulam_Article_TyndaleOpenBibleDictionary">Ulam</a></p>
+<p class="toc"><a href="?item=Ulcer_Article_TyndaleOpenBibleDictionary">Ulcer*</a></p>
+<p class="toc"><a href="?item=Ulla_Article_TyndaleOpenBibleDictionary">Ulla</a></p>
+<p class="toc"><a href="?item=Ummah_Article_TyndaleOpenBibleDictionary">Ummah</a></p>
+<p class="toc"><a href="?item=Uncircumcision_Article_TyndaleOpenBibleDictionary">Uncircumcision*</a></p>
+<p class="toc"><a href="?item=UncleanUncleanness_Article_TyndaleOpenBibleDictionary">Unclean, Uncleanness</a></p>
+<p class="toc"><a href="?item=UnforgivableSin_Article_TyndaleOpenBibleDictionary">Unforgivable Sin*</a></p>
+<p class="toc"><a href="?item=Unicorn_Article_TyndaleOpenBibleDictionary">Unicorn*</a></p>
+<p class="toc"><a href="?item=UnleavenedBread_Article_TyndaleOpenBibleDictionary">Unleavened Bread</a></p>
+<p class="toc"><a href="?item=UnleavenedBreadFestivalof_Article_TyndaleOpenBibleDictionary">Unleavened Bread, Festival of</a></p>
+<p class="toc"><a href="?item=Unni_Article_TyndaleOpenBibleDictionary">Unni</a></p>
+<p class="toc"><a href="?item=Unno_Article_TyndaleOpenBibleDictionary">Unno*</a></p>
+<p class="toc"><a href="?item=UnpardonableSinthe_Article_TyndaleOpenBibleDictionary">Unpardonable Sin*, the</a></p>
+<p class="toc"><a href="?item=Upharsin_Article_TyndaleOpenBibleDictionary">Upharsin*</a></p>
+<p class="toc"><a href="?item=Uphaz_Article_TyndaleOpenBibleDictionary">Uphaz</a></p>
+<p class="toc"><a href="?item=UpperGate_Article_TyndaleOpenBibleDictionary">Upper Gate</a></p>
+<p class="toc"><a href="?item=UpperRoom_Article_TyndaleOpenBibleDictionary">Upper Room</a></p>
+<p class="toc"><a href="?item=UrPerson_Article_TyndaleOpenBibleDictionary">Ur (Person)</a></p>
+<p class="toc"><a href="?item=UrPlace_Article_TyndaleOpenBibleDictionary">Ur (Place)</a></p>
+<p class="toc"><a href="?item=Urbanus_Article_TyndaleOpenBibleDictionary">Urbanus</a></p>
+<p class="toc"><a href="?item=Uri_Article_TyndaleOpenBibleDictionary">Uri</a></p>
+<p class="toc"><a href="?item=Uriah_Article_TyndaleOpenBibleDictionary">Uriah</a></p>
+<p class="toc"><a href="?item=Urias_Article_TyndaleOpenBibleDictionary">Urias*</a></p>
+<p class="toc"><a href="?item=Uriel_Article_TyndaleOpenBibleDictionary">Uriel</a></p>
+<p class="toc"><a href="?item=Urijah_Article_TyndaleOpenBibleDictionary">Urijah*</a></p>
+<p class="toc"><a href="?item=UrimandThummim_Article_TyndaleOpenBibleDictionary">Urim and Thummim</a></p>
+<p class="toc"><a href="?item=Uthai_Article_TyndaleOpenBibleDictionary">Uthai</a></p>
+<p class="toc"><a href="?item=UzPerson_Article_TyndaleOpenBibleDictionary">Uz (Person)</a></p>
+<p class="toc"><a href="?item=UzPlace_Article_TyndaleOpenBibleDictionary">Uz (Place)</a></p>
+<p class="toc"><a href="?item=Uzai_Article_TyndaleOpenBibleDictionary">Uzai</a></p>
+<p class="toc"><a href="?item=UzalPerson_Article_TyndaleOpenBibleDictionary">Uzal (Person)</a></p>
+<p class="toc"><a href="?item=UzalPlace_Article_TyndaleOpenBibleDictionary">Uzal (Place)</a></p>
+<p class="toc"><a href="?item=Uzza_Article_TyndaleOpenBibleDictionary">Uzza</a></p>
+<p class="toc"><a href="?item=Uzzah_Article_TyndaleOpenBibleDictionary">Uzzah</a></p>
+<p class="toc"><a href="?item=UzzenSheerah_Article_TyndaleOpenBibleDictionary">Uzzen-Sheerah</a></p>
+<p class="toc"><a href="?item=Uzzi_Article_TyndaleOpenBibleDictionary">Uzzi</a></p>
+<p class="toc"><a href="?item=Uzzia_Article_TyndaleOpenBibleDictionary">Uzzia</a></p>
+<p class="toc"><a href="?item=Uzziah_Article_TyndaleOpenBibleDictionary">Uzziah</a></p>
+<p class="toc"><a href="?item=Uzziel_Article_TyndaleOpenBibleDictionary">Uzziel</a></p>
+</body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ucal">
+  <title>Ucal*</title>
+  <body>
+<p class="h1">UCAL*</p>
+<p class="fl">Disciple of Agur, the wise man whose sayings are recorded in the book of Proverbs (<a href="?bref=Pr.30.1">Prv 30:1</a>; see <span class="sc">nlt</span> mg). The meaning of the passage is obscure. Many have suggested that the names Ithiel and Ucal are not proper nouns but should be translated, “I am weary and worn out, O God.”</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uel">
+  <title>Uel</title>
+  <body>
+<p class="h1">UEL</p>
+<p class="fl">Bani’s descendant and a priest who was encouraged by Ezra to divorce his foreign wife during the postexilic era (<a href="?bref=Ezra.10.34">Ezr 10:34</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ugarit">
+  <title>Ugarit*</title>
+  <body>
+<p class="h1">UGARIT*</p>
+<p class="fl">City in northwest Syria during the second millennium <span class="era">BC</span>. Though the city is not mentioned in the Bible, it is a significant archaeological site that illuminates OT language and history. Ugarit was located just east of the Mediterranean coast, approximately 175 miles (281.6 kilometers) north of Tyre.</p>
+<p>Being known previously only from the Amarna letters, the ruins of Ugarit were discovered accidentally by a peasant farmer in 1928. The resulting discoveries were among the most important in the 20th century. Since Ugarit was a political and cultural center, its scribes created and transcribed documents in a wide variety of Near Eastern languages, including a language closely related to Hebrew that was written in an alphabetic cuneiform script. The discovery and subsequent deciphering of “Ugaritic” has influenced biblical studies both linguistically and culturally. Ugaritic has illuminated some otherwise obscure Hebrew passages and given greater attestation to others. For instance, the terms used to describe each of the various sacrificial offerings are very similar in Hebrew and Ugaritic, though the sacrificial systems themselves vary quite dramatically. Hebrew and Ugaritic poetry are quite similar stylistically, thus assisting in the understanding of Hebrew verse and also increasing the appreciation of its ancient heritage. Books like Job that often have been dated late by biblical critics exhibit significant Ugaritic parallels in style, vocabulary, and occasionally in literary allusion as well.</p>
+<p>Perhaps the most significant contribution derived from the study of Ugaritic texts and cultural artifacts is the improved understanding of Canaanite culture and religion. The Ugaritic texts provide justification for the strongly negative assessment of Canaanite culture given in the Bible. Three principal religious epics have been discovered in the Ugaritic corpus, written in honor of Keret, Aqhat, and Baal, respectively. The Baal epic describes the way in which Baal becomes lord of the earth after battling Yam, the god of the sea. The epics further reveal a great deal about Canaanite religious ritual, reinforcing biblical contentions concerning the sexual permissiveness and degradation of the society. The strong biblical injunctions against the worship of Baal and the Asherahs and the command to utterly destroy the Canaanites are more easily understood in the context of the Ugaritic religious epics.</p>
+<p>Finally, the Ugaritic texts potentially illuminate some historical questions relating to the OT. For instance, when Hezekiah was sick with a boil, he was instructed by Isaiah to treat it with a poultice of figs (<a href="?bref=2Kgs.20.7">2 Kgs 20:7</a>; <a href="?bref=Isa.38.21">Is 38:21</a>). This procedure is attested to in a Ugaritic text that prescribes it as a treatment for boils that infected horses.</p>
+<p><span class="ital">See also</span> <a href="?item=Inscriptions_Article_TyndaleOpenBibleDictionary">Inscriptions</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ulai">
+  <title>Ulai</title>
+  <body>
+<p class="h1">ULAI</p>
+<p class="fl">River near the Persian capital city of Susa where Daniel received a vision concerning the end times (<a href="?bref=Dan.8.2-16">Dn 8:2-16</a>). It is likely the same as the Eulaeus, which is described by both Greek and Roman geographers as a stream that flowed to the west of the citadel of Susa.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ulam">
+  <title>Ulam</title>
+  <body>
+<p class="h1">ULAM</p>
+<p class="list">1. Clan in Manasseh’s tribe (<a href="?bref=1Chr.7.16-17">1 Chr 7:16-17</a>).</p>
+<p class="list">2. Eshek’s firstborn son and a mighty warrior in Benjamin’s tribe (<a href="?bref=1Chr.8.39-40">1 Chr 8:39-40</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ulcer">
+  <title>Ulcer*</title>
+  <body>
+<p class="h1">ULCER*</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=Sore_Article_TyndaleOpenBibleDictionary">Sore</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ulla">
+  <title>Ulla</title>
+  <body>
+<p class="h1">ULLA</p>
+<p class="fl">Family in Asher’s tribe (<a href="?bref=1Chr.7.39">1 Chr 7:39</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Ummah">
+  <title>Ummah</title>
+  <body>
+<p class="h1">UMMAH</p>
+<p class="fl">One of the villages inherited by Asher’s tribe after the conquest of Canaan (<a href="?bref=Josh.19.30">Jos 19:30</a>). Neither the location of Ummah nor the accompanying villages (Aphek and Rehob) are known.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uncircumcision">
+  <title>Uncircumcision*</title>
+  <body>
+<p class="h1">UNCIRCUMCISION*</p>
+<p class="fl">Natural condition of the male, that is, with the foreskin covering his penis. Since the Jews, among many other peoples, surgically removed this as a sign of their covenant with God (<a href="?bref=Gen.17.9-14">Gn 17:9-14</a>; <a href="?bref=Exod.12.48">Ex 12:48</a>; <a href="?bref=Lev.12.3">Lv 12:3</a>), the term came to designate “non-Jew” or “Gentile” (Philistines, Greeks, and Romans did not circumcise, but Egyptians and many Semitic peoples did). By extension, it connoted “those outside the covenant.”</p>
+<p>The term “uncircumcision” occurs 20 times in the NT, most of the time meaning simply “Gentile,” as opposed to Jew. Paul argues strongly against making such distinctions. For Paul, the attitude of one’s heart toward God is much more important than ritual law, which has nothing to do with his salvation (<a href="?bref=Rom.2.25-27">Rom 2:25-27</a>). Abraham became a believer and was justified by God while he was uncircumcised, so circumcision has nothing to do with his salvation (<a href="?bref=Rom.3.30">3:30</a>; <a href="?bref=Rom.4.9-12">4:9-12</a>). Formerly, Gentiles were excluded from the people of God (<a href="?bref=Eph.2.11-12">Eph 2:11-12</a>), but now Jewish and gentile believers have become one in Christ (<a href="?bref=Gal.2.7">Gal 2:7</a>; <a href="?bref=Gal.5.6">5:6</a>; <a href="?bref=Gal.6.15">6:15</a>; <a href="?bref=Col.3.11">Col 3:11</a>). Paul refuses to give way to those demanding circumcision for full church membership.</p>
+<p>In one passage (<a href="?bref=Col.2.8-15">Col 2:8-15</a>), Paul speaks of uncircumcision metaphorically, meaning a person’s unregenerate state. Here uncircumcision is equivalent to “the flesh” (meaning one’s evil impulse or natural state). As literal flesh is cut away in the rite of circumcision, so this “flesh” is cut away by Christ at the time of conversion, as symbolized in baptism. The baptized person is one purified from “uncleanness” as a circumcised Gentile is purified from previous uncircumcised uncleanness.</p>
+<p><span class="ital">See also</span> <a href="?item=Circumcision_Article_TyndaleOpenBibleDictionary">Circumcision</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UncleanUncleanness">
+  <title>Unclean, Uncleanness</title>
+  <body>
+<p class="h1">UNCLEAN, UNCLEANNESS</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=CleannessandUncleannessRegulationsconcerning_Article_TyndaleOpenBibleDictionary">Cleanness and Uncleanness, Regulations Concerning</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UnforgivableSin">
+  <title>Unforgivable Sin*</title>
+  <body>
+<p class="h1">UNFORGIVABLE SIN*</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=UnpardonableSinthe_Article_TyndaleOpenBibleDictionary">Unpardonable Sin, The</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Unicorn">
+  <title>Unicorn*</title>
+  <body>
+<p class="h1">UNICORN*</p>
+<p class="fl">KJV rendering for an animal called a “wild ox” in the <span class="sc">nlt</span> and most modern translations (<a href="?bref=Num.24.8">Nm 24:8</a>; <a href="?bref=Deut.33.17">Dt 33:17</a>). Unicorn is an unfortunate translation (following the Septuagint) because the animal had two horns, not one. <span class="ital">See</span> <a href="?item=Animals_Article_TyndaleOpenBibleDictionary">Animals (Wild Ox)</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UnleavenedBread">
+  <title>Unleavened Bread</title>
+  <body>
+<p class="h1">UNLEAVENED BREAD</p>
+<p class="fl">Bread made without leaven (yeast). In ancient times, bread makers used a piece of dough remaining from a former baking process, a piece that had fermented and developed a certain acid content—the yeast that caused bread to rise.</p>
+<p>Bread used at the Jewish Passover and most other religious observances was, by the command of God, unleavened (<a href="?bref=Exod.12.15-20">Ex 12:15-20</a>; <a href="?bref=Exod.23.15">23:15</a>). Only under certain conditions were the people permitted to use leavened bread for spiritual purposes (<a href="?bref=Lev.7.13">Lv 7:13</a>; <a href="?bref=Lev.23.17">23:17</a>). This was largely owing to the fact that leaven generally symbolized evil; fermentation implied decay and corruption.</p>
+<p>With the exception of Jesus’ teaching on the kingdom of God (<a href="?bref=Matt.13.33">Mt 13:33</a>), the NT also speaks of leaven with a negative connotation. Jesus warned of the leaven of the Pharisees and Sadducees (<a href="?bref=Matt.16.6">16:6</a>); Paul exhorted believers to guard against that tiny bit of yeast—unhealthy values—that can work through a whole batch of dough (<a href="?bref=1Cor.5.6-8">1 Cor 5:6-8</a>).</p>
+<p><span class="ital">See also</span> <a href="?item=Bread_Article_TyndaleOpenBibleDictionary">Bread</a>; <a href="?item=FoodandFoodPreparation_Article_TyndaleOpenBibleDictionary">Food and Food Preparation</a>; <a href="?item=Leaven_Article_TyndaleOpenBibleDictionary">Leaven</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UnleavenedBreadFestivalof">
+  <title>Unleavened Bread, Festival of</title>
+  <body>
+<p class="h1">UNLEAVENED BREAD, Festival of</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=FeastsandFestivalsofIsrael_Article_TyndaleOpenBibleDictionary">Feasts and Festivals of Israel</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Unni">
+  <title>Unni</title>
+  <body>
+<p class="h1">UNNI</p>
+<p class="list">1. One of the musicians appointed by the chief of the Levites to sing and play the harp as part of the temple service during David’s reign (<a href="?bref=1Chr.15.18-20">1 Chr 15:18-20</a>).</p>
+<p class="list">2. KJV spelling of Unno in <a href="?bref=Neh.12.9">Nehemiah 12:9</a>. <span class="ital">See</span> <a href="?item=Unno_Article_TyndaleOpenBibleDictionary">Unno</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Unno">
+  <title>Unno*</title>
+  <body>
+<p class="h1">UNNO*</p>
+<p class="fl">One of the Levites who participated in the temple service during the postexilic era (<a href="?bref=Neh.12.9">Neh 12:9</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UnpardonableSinthe">
+  <title>Unpardonable Sin*, the</title>
+  <body>
+<p class="h1">UNPARDONABLE SIN*, The</p>
+<p class="fl">Attributing to Satan what is actually the work of the Holy Spirit as demonstrated through Jesus Christ. This sin is blasphemy against the Holy Spirit.</p>
+<p>The unpardonable sin must be defined by its context, which is found in <a href="?bref=Matt.12.31-32">Matthew 12:31-32</a> and <a href="?bref=Mark.3.28-30">Mark 3:28-30</a>. In these passages, Jesus had just cast a demon from a man who was blind and mute. Incontrovertible evidence of the power of God had just occurred. But the Pharisees, with stubborn unbelief, credited this display of God’s power to Beelzebul, the devil (<a href="?bref=Matt.12.24">Mt 12:24</a>). Several Scriptures reveal that many Jews had expressed the same kind of fallacious opinion, namely, that Jesus was performing miracles by the power of the devil (<a href="?bref=Matt.9.34">Mt 9:34</a>; <a href="?bref=Matt.11.18">11:18</a>; <a href="?bref=Luke.7.33">Lk 7:33</a>; <a href="?bref=Luke.11.14-20">11:14-20</a>; <a href="?bref=John.7.20">Jn 7:20</a>; <a href="?bref=John.8.48,52">8:48, 52</a>; <a href="?bref=John.10.20">10:20</a>). A group of Jews, mostly Pharisees, were guilty of attributing to the devil what was the work of the Spirit demonstrated through the Lord Jesus. They committed <span class="ital">the</span> unpardonable sin when they said that Jesus’ actions, performed by the power of the Holy Spirit, originated from Beelzebul, the devil. Put simply, they sinned grievously by boldly characterizing Jesus’ work as coming from the devil. Interestingly, many Jews perpetuated this false characterization about Jesus long after his death. They did not deny that he did miracles; they said he did miracles by the power of the devil.</p>
+<p class="h2" id="WhatIsnttheUnpardonableSin">What Isn’t the Unpardonable Sin</p>
+<p class="fl">The unpardonable sin is not Israel’s rebellion against God, even though this rebellion resulted in the eternal judgment of thousands and a temporary elimination of God’s blessing. The “sin unto death” mentioned by John (<a href="?bref=1Jn.5.16-17">1 Jn 5:16-17</a>) is not the unpardonable sin. It would be impossible for a person who has redemption and the forgiveness of sin (<a href="?bref=Eph.1.7">Eph 1:7</a>), cleansing for present and future sin (<a href="?bref=1Jn.1.7">1 Jn 1:7</a>), and eternal life (<a href="?bref=John.3.16">Jn 3:16</a>) to commit an unpardonable sin. But those who commit the “sin unto death” are all Christians. <a href="?bref=1Jn.5.16">First John 5:16</a> says the person who commits the “sin unto death” is a “brother” in Christ.</p>
+<p>The unpardonable sin is not rejection of the Lord Jesus, until the rejecter dies in his unbelief. Such a sin will not be forgiven throughout eternity, but it is not the same sin as that which Jesus condemned with these words: “Anyone who blasphemes against me, the Son of Man, can be forgiven, but blasphemy against the Holy Spirit will never be forgiven, either in this world or in the world to come” (<a href="?bref=Matt.12.32">Mt 12:32</a>, <span class="sc">nlt</span>). Numerous passages repeat the warning that unbelief in the Savior results in eternal death (<a href="?bref=John.3.18,36">Jn 3:18, 36</a>; <a href="?bref=1Jn.5.12">1 Jn 5:12</a>; <a href="?bref=Rev.20.15">Rv 20:15</a>; <a href="?bref=Rev.21.8">21:8</a>), but these Scriptures do not directly speak of the unpardonable sin. Jesus asserted that a person could be an unbeliever in him, even to the degree of speaking against him, yet not be guilty of the unpardonable sin.</p>
+<p><span class="ital">See also</span> <a href="?item=JustificationJustified_Article_TyndaleOpenBibleDictionary">Justification, Justified</a>; <a href="?item=SinuntoDeath_Article_TyndaleOpenBibleDictionary">Sin unto Death</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Upharsin">
+  <title>Upharsin*</title>
+  <body>
+<p class="h1">UPHARSIN*</p>
+<p class="fl">Aramaic word interpreted as “divided” in <a href="?bref=Dan.5.25">Daniel 5:25</a> (<span class="sc">kjv</span>). <span class="ital">See</span> <a href="?item=MeneMeneTekelParsin_Article_TyndaleOpenBibleDictionary">Mene, Mene, Tekel, Parsin</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uphaz">
+  <title>Uphaz</title>
+  <body>
+<p class="h1">UPHAZ</p>
+<p class="fl">Region well known for its gold (<a href="?bref=Jer.10.9">Jer 10:9</a>; <a href="?bref=Dan.10.5">Dn 10:5</a>). Some contend that Uphaz is a scribal error for Ophir (only one consonant is different), another region famous for its fine gold.</p>
+<p><span class="ital">See also</span> <a href="?item=OphirPlace_Article_TyndaleOpenBibleDictionary">Ophir (Place)</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UpperGate">
+  <title>Upper Gate</title>
+  <body>
+<p class="h1">UPPER GATE</p>
+<p class="fl">One of the gates leading to the temple mount in Jerusalem. It was built by Jotham (<a href="?bref=2Kgs.15.35">2 Kgs 15:35</a>; <a href="?bref=2Chr.27.3">2 Chr 27:3</a>) and served as the principal access between the royal palace and the temple area (<a href="?bref=2Chr.23.20">2 Chr 23:20</a>; <a href="?bref=Ezek.9.2">Ez 9:2</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UpperRoom">
+  <title>Upper Room</title>
+  <body>
+<p class="h1">UPPER ROOM</p>
+<p class="fl">Second-story room of a Hebrew or a Greek house; often like a tower, built on the flat roof of a Hebrew home for privacy, for comfort during the hot season, or for the entertainment of guests. In some instances it could accommodate large gatherings of people. In at least one instance, the room was on the third story (<a href="?bref=Acts.20.8">Acts 20:8</a>). Eutychus, sitting in the window, went to sleep and fell three stories to the street below (vv <a href="?bref=Acts.20.9-10">9-10</a>). It may have been a similar type of accident that caused Ahaziah’s fatal injury when he fell through the latticework of his upper room (<a href="?bref=2Kgs.1.2">2 Kgs 1:2</a>).</p>
+<p>Elijah took the dead son of the widow of Zarephath to an upper room where he had been staying and raised him from the dead (<a href="?bref=1Kgs.17.19-23">1 Kgs 17:19-23</a>). David went to an upper room for privacy to mourn the death of Absalom (<a href="?bref=2Sam.18.33">2 Sm 18:33</a>). The kings of Judah built strange altars near the upper room of Ahaz, which Josiah pulled down as part of his reform program (<a href="?bref=2Kgs.23.12">2 Kgs 23:12</a>).</p>
+<p>Jesus ate the Passover supper in an upper room with his disciples (<a href="?bref=Mark.14.15">Mk 14:15</a>; <a href="?bref=Luke.22.12">Lk 22:12</a>). The size of some of these rooms is evident from the fact that, after Jesus had left and ascended to heaven, the disciples went to the upper room where they all had been staying before. The congregation attending the meeting in Troas was not a small one either (<a href="?bref=Acts.20.8">Acts 20:8</a>). Dorcas was laid in an upper room after she had died; later, Peter was taken up to the same room to pray for her restoration to life (<a href="?bref=Acts.9.36-41">Acts 9:36-41</a>).</p>
+<p><span class="ital">See also</span> <a href="?item=Architecture_Article_TyndaleOpenBibleDictionary">Architecture</a>; <a href="?item=HomesandDwellings_Article_TyndaleOpenBibleDictionary">Homes and Dwellings</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UrPerson">
+  <title>Ur (Person)</title>
+  <body>
+<p class="h1">UR (P<span class="lc">erson</span>)</p>
+<p class="fl">Father of Eliphal, one of David’s mighty men (<a href="?bref=1Chr.11.35">1 Chr 11:35</a>); probably the same as Ahasbai in the parallel passage (<a href="?bref=2Sam.23.34">2 Sm 23:34</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UrPlace">
+  <title>Ur (Place)</title>
+  <body>
+<p class="h1">UR (P<span class="lc">lace</span>)</p>
+<p class="fl">Hometown of Terah, the father of Abraham, and the birthplace of Abraham and Sarah. It is mentioned by name only four times in the Bible (<a href="?bref=Gen.11.28,31">Gn 11:28, 31</a>; <a href="?bref=Gen.15.7">15:7</a>; <a href="?bref=Neh.9.7">Neh 9:7</a>), always with the full name “Ur of the Chaldeans.”</p>
+<p>The modern site is known as Tell el Muqayyar, “The Mound of Bitumen.” The results of archaeological investigations demonstrate that Abraham came from a great city, cultured, sophisticated, and powerful. The landscape was dominated by the ziggurat, or temple tower, and the life of the city was controlled by a religion with a multiplicity of gods. The chief deity was Nannar, or Sin, the moon god, who was also worshiped at Haran. Near his ziggurat was a temple dedicated to his consort, the moon goddess, Ningal.</p>
+<include_items src="../Maps/Maps.xml" name="UroftheChaldeans"/>
+<p>Many clay tablets found at Ur tell of the business life of the city, which focused on the temples and their income. There were factories here, such as the weaving establishment for the manufacture of woolen cloth. Some tablets dealt with religion, history, law, and education. Students were instructed in reading and writing in cuneiform script. They were taught multiplication and division, and some were even able to extract square roots and cube roots.</p>
+<p>Domestic architecture was highly developed. Houses had two stories and many rooms (10 to 20), sometimes with a private chapel. Small clay religious figures (teraphim or household idols) were discovered. Many art objects made of precious metals and other costly materials have been excavated, especially in the royal tombs. These tombs also contained the remains of a number of retainers who must have been put to death at the time of the royal burials in order to accompany their masters in the afterlife.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Urbanus">
+  <title>Urbanus</title>
+  <body>
+<p class="h1">URBANUS</p>
+<p class="fl">Believer greeted as one of Paul’s coworkers in Christ (<a href="?bref=Rom.16.9">Rom 16:9</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uri">
+  <title>Uri</title>
+  <body>
+<p class="h1">URI</p>
+<p class="list">1. Father of Bezalel from Judah’s tribe, and a builder of the tabernacle (<a href="?bref=Exod.31.2">Ex 31:2</a>; <a href="?bref=Exod.35.30">35:30</a>; <a href="?bref=Exod.38.22">38:22</a>; <a href="?bref=1Chr.2.20">1 Chr 2:20</a>; <a href="?bref=2Chr.1.5">2 Chr 1:5</a>).</p>
+<p class="list">2. Father of Geber, one of Solomon’s officers in Gilead (<a href="?bref=1Kgs.4.19">1 Kgs 4:19</a>).</p>
+<p class="list">3. One of the temple gatekeepers who put away his foreign wife at Ezra’s request (<a href="?bref=Ezra.10.24">Ezr 10:24</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uriah">
+  <title>Uriah</title>
+  <body>
+<p class="h1">URIAH</p>
+<p class="list">1. Hittite who joined the people of Israel, became a leader in David’s army, and was listed among the king’s mighty men (<a href="?bref=2Sam.23.39">2 Sm 23:39</a>; <a href="?bref=1Chr.11.41">1 Chr 11:41</a>). Uriah’s wife was Bathsheba, with whom David committed adultery while Uriah was fighting the Ammonites. Upon learning that she was pregnant, David summoned Uriah to Jerusalem, hoping that Uriah would sleep with his wife and consider himself the child’s father. However, Uriah slept in the servants’ quarters because he was unwilling to enjoy the comforts of home while his companions were at war. The second night David again tried to entice him to sleep with his wife. Even after falling into a drunken stupor, Uriah still could not be persuaded to go home; instead, he spent the night at the palace. To deepen the intrigue, David sent Uriah back to the battle, ordering him positioned at a vulnerable place, where he was killed (<a href="?bref=2Sam.11.1-27">2 Sm 11</a>; <a href="?bref=Matt.1.6">Mt 1:6</a>).</p>
+<p class="list-text"><span class="ital">See also</span> <a href="?item=David_Article_TyndaleOpenBibleDictionary">David</a>; <a href="?item=GenealogyofJesusChrist_Article_TyndaleOpenBibleDictionary">Genealogy of Jesus Christ</a>.</p>
+<p class="list">2. Priest who built an altar at Jerusalem in imitation of an Assyrian model at King Ahaz of Judah’s request (<a href="?bref=2Kgs.16.10-16">2 Kgs 16:10-16</a>).</p>
+<p class="list">3. Priest who was the father of Meremoth. Meremoth weighed the silver, gold, and vessels for the temple (<a href="?bref=Ezra.8.33">Ezr 8:33</a>) and built portions of the Jerusalem wall during the days of Nehemiah (<a href="?bref=Neh.3.4,21">Neh 3:4, 21</a>).</p>
+<p class="list">4. One of the men who stood to Ezra’s right when Ezra read the law to the people (<a href="?bref=Neh.8.4">Neh 8:4</a>). He is perhaps the same man as #3 above.</p>
+<p class="list">5. Priest whom Isaiah took as a witness (<a href="?bref=Isa.8.2">Is 8:2</a>). He is perhaps the same man as #2 above.</p>
+<p class="list">6. Prophet and Shemaiah’s son from Kiriath-jearim. Uriah enraged King Jehoiakim by prophesying against Judah and Jerusalem. Fearing for his life, Uriah fled to Egypt but was eventually abducted and brought back to King Jehoiakim, who subsequently put him to death (<a href="?bref=Jer.26.20-23">Jer 26:20-23</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Urias">
+  <title>Urias*</title>
+  <body>
+<p class="h1">URIAS*</p>
+<p class="fl">KJV spelling (in <a href="?bref=Matt.1.6">Matthew 1:6</a>) of Uriah, Bathsheba’s husband, whom David had killed. <span class="ital">See</span> <a href="?item=Uriah_Article_TyndaleOpenBibleDictionary">Uriah #1</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uriel">
+  <title>Uriel</title>
+  <body>
+<p class="h1">URIEL</p>
+<p class="list">1. Levite of the Kohathite branch who is listed as the son of Tahath and the father of Uzziah (<a href="?bref=1Chr.6.24">1 Chr 6:24</a>).</p>
+<p class="list">2. Levite who officiated over the moving of the ark from the house of Obed-edom to Jerusalem (<a href="?bref=1Chr.15.5-11">1 Chr 15:5-11</a>). He was a Kohathite clan chief in charge of 120 men who participated in the ceremony, and he was personally sanctified for the purpose of carrying the ark.</p>
+<p class="list">3. Grandfather of King Abijah of Judah, and the father of the queen mother, Maacah (Hebrew <span class="hebrew">Micaiah</span>), the favored wife of Rehoboam (<a href="?bref=2Chr.13.2">2 Chr 13:2</a>). There is potential difficulty in that Absalom is also called the father of Micaiah (Maacah) in <a href="?bref=2Chr.11.20">2 Chronicles 11:20</a>. Josephus explained this discrepancy by suggesting that Maacah’s mother may have been Absalom’s daughter Tamar, so that Uriel would be the father of Maacah and Absalom the maternal grandfather. While many adopt this suggestion, others have posited that Absalom was known by two different names, particularly after he had been disgraced.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Urijah">
+  <title>Urijah*</title>
+  <body>
+<p class="h1">URIJAH*</p>
+<p class="fl">KJV spelling of Uriah. <span class="ital">See</span> <a href="?item=Uriah_Article_TyndaleOpenBibleDictionary">Uriah #2–4, 6</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UrimandThummim">
+  <title>Urim and Thummim</title>
+  <body>
+<p class="h1">URIM AND THUMMIM</p>
+<p class="fl">Two untranslated Hebrew words that might mean “lights and perfections.” They refer to some kind of stones or tokens that the ancient high priests of Israel used for discovering the will of God (<a href="?bref=Num.27.21">Nm 27:21</a>). They were probably like dice or coins that had to land upright or upside down. According to <a href="?bref=Exod.28.30">Exodus 28:30</a>, they were kept on or in the breastpiece of the high priest. They are not mentioned from the time of Saul (<a href="?bref=1Sam.28.6">1 Sm 28:6</a>) until the time of Ezra and Nehemiah (<a href="?bref=Ezra.2.63">Ezr 2:63</a>; <a href="?bref=Neh.7.65">Neh 7:65</a>), when they were used for reaccrediting returned priests. In <a href="?bref=1Sam.14.41">1 Samuel 14:41</a> (<span class="sc">rsv</span>, <span class="sc">niv</span> mg, <span class="sc">nlt</span> mg), the Greek translation preserves what may have been lost from the Hebrew original, a mention of them in connection with Saul’s effort to determine guilt in his army. That they could give answers to true-false or yes-no questions is evident from this verse. Hence, the system was probably akin to casting lots.</p>
+<p>None of the major spiritual leaders (e.g., Abraham, Moses, David, or the prophets) ever used them for determining the will of God, and there is no mention of them in the NT. The Urim and Thummim belonged to the nation Israel in its developing years, not when there were prophets and surely not once the Holy Spirit was available to believers.</p>
+<p><span class="ital">See also</span> <a href="?item=LotsCastingof_Article_TyndaleOpenBibleDictionary">Lots, Casting of</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uthai">
+  <title>Uthai</title>
+  <body>
+<p class="h1">UTHAI</p>
+<p class="list">1. One who returned to Israel following the exile. He is listed as the son of Ammihud from the Perez branch of Judah’s tribe (<a href="?bref=1Chr.9.4">1 Chr 9:4</a>).</p>
+<p class="list">2. One of Bigvai’s sons who returned to Jerusalem with Ezra (<a href="?bref=Ezra.8.14">Ezr 8:14</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UzPerson">
+  <title>Uz (Person)</title>
+  <body>
+<p class="h1">UZ (P<span class="lc">erson</span>)</p>
+<p class="list">1. Aram’s firstborn son and a descendant of Shem (<a href="?bref=Gen.10.23">Gn 10:23</a>). In the parallel passage in <a href="?bref=1Chr.1.17">1 Chronicles 1:17</a>, Uz is linked directly to Shem without mention of Aram. He is perhaps the forefather of the Aramean nation situated in the Syrian desert regions.</p>
+<p class="list">2. Firstborn son of Abraham’s brother Nahor by his concubine, Milcah (<a href="?bref=Gen.22.21">Gn 22:21</a>).</p>
+<p class="list">3. Son of Dishan and the grandson of Seir the Horite (<a href="?bref=Gen.36.28">Gn 36:28</a>; <a href="?bref=1Chr.1.42">1 Chr 1:42</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UzPlace">
+  <title>Uz (Place)</title>
+  <body>
+<p class="h1">UZ (P<span class="lc">lace</span>)</p>
+<p class="fl">Homeland of Job (<a href="?bref=Job.1.1">Jb 1:1</a>). The name appears in parallels with Edom and is associated with the Uz in the family tree of the original Horites in Seir (<a href="?bref=Lam.4.21">Lam 4:21</a>). The book of Job does not locate the land of Uz, but it does say that the sons of the East (Kedem) lived there (<a href="?bref=Job.1.3">Jb 1:3</a>). Uz is also said to be close to the desert (v <a href="?bref=Job.1.15">15</a>) and to the Chasdim (v <a href="?bref=Job.1.17">17</a>). This indicates that it was located to the east of the land of Israel.</p>
+<p>The associations with Edom strongly suggest that the land of Uz was populated by descendants of the Horites of Seir. Further support for this view is a verse in the Greek version at the end of the book of Job: “since he had lived in the land of Uz on the borders of Edom and Arabia.” Certain ancient traditions place the home of Job in Bashan. Josephus also says that Job lived in Traconitis and Damascus (<span class="ital">Antiquities</span> 1.6.4), with reference to the Uz of the Aramean genealogy (<a href="?bref=Gen.10.23">Gn 10:23</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzai">
+  <title>Uzai</title>
+  <body>
+<p class="h1">UZAI</p>
+<p class="fl">Father of Palal, a repairer of the Jerusalem wall during Nehemiah’s day (<a href="?bref=Neh.3.25">Neh 3:25</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UzalPerson">
+  <title>Uzal (Person)</title>
+  <body>
+<p class="h1">UZAL (P<span class="lc">erson</span>)</p>
+<p class="fl">Son of Joktan, a descendant of Eber through Shem’s line (<a href="?bref=Gen.10.27">Gn 10:27</a>; <a href="?bref=1Chr.1.21">1 Chr 1:21</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UzalPlace">
+  <title>Uzal (Place)</title>
+  <body>
+<p class="h1">UZAL (P<span class="lc">lace</span>)</p>
+<p class="fl">Place mentioned with Dan and Javan in an obscure passage (<a href="?bref=Ezek.27.19">Ez 27:19</a>); it is identifiable with modern Sana (ancient Awzal), the capital of Yemen.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzza">
+  <title>Uzza</title>
+  <body>
+<p class="h1">UZZA</p>
+<p class="list">1. Owner or initial planter of a garden that served as the burial place for kings Manasseh and Amon of Judah (<a href="?bref=2Kgs.21.18,26">2 Kgs 21:18, 26</a>). The “garden of Uzza” was apparently adjacent to Manasseh’s royal residence.</p>
+<p class="list">2. KJV spelling for Uzzah, Shimei’s son, in <a href="?bref=1Chr.6.29">1 Chronicles 6:29</a>. <span class="ital">See</span> <a href="?item=Uzzah_Article_TyndaleOpenBibleDictionary">Uzzah #2</a>.</p>
+<p class="list">3. Son or descendant of Ehud from Benjamin’s tribe (<a href="?bref=1Chr.8.7">1 Chr 8:7</a>), listed as an ancestor of Mordecai in extrabiblical texts.</p>
+<p class="list">4. KJV spelling for Uzzah, Abinadab’s son, in <a href="?bref=1Chr.13.7-11">1 Chronicles 13:7-11</a>. <span class="ital">See</span> <a href="?item=Uzzah_Article_TyndaleOpenBibleDictionary">Uzzah #1</a>.</p>
+<p class="list">5. Forefather of a family of temple servants who returned to Jerusalem with Zerubbabel following the exile (<a href="?bref=Ezra.2.49">Ezr 2:49</a>; <a href="?bref=Neh.7.51">Neh 7:51</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzzah">
+  <title>Uzzah</title>
+  <body>
+<p class="h1">UZZAH</p>
+<p class="list">1. Son of Abinadab who was killed while accompanying the cart that carried the ark of the covenant when it was returned from the Philistines (<a href="?bref=2Sam.6.1-8">2 Sm 6:1-8</a>; <a href="?bref=1Chr.13.7-11">1 Chr 13:7-11</a>). He was struck dead by the Lord because he took hold of the ark while trying to steady it, thereby violating the instructions of <a href="?bref=Num.4.15">Numbers 4:15</a>. Uzzah’s brother, Ahio, was apparently leading the oxen while Uzzah walked alongside. As a result of the incident, David renamed the site Perez-uzzah (“the breaking forth against Uzzah”) and left the ark at the home of Obed-edom.</p>
+<p class="list">2. Levite from the clan of Merari who is listed as the son of Shimei and the father of Shimea (<a href="?bref=1Chr.6.29">1 Chr 6:29</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="UzzenSheerah">
+  <title>Uzzen-Sheerah</title>
+  <body>
+<p class="h1">UZZEN-SHEERAH</p>
+<p class="fl">Town built by Sheerah, who was either the daughter or granddaughter of Ephraim (<a href="?bref=1Chr.7.24">1 Chr 7:24</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzzi">
+  <title>Uzzi</title>
+  <body>
+<p class="h1">UZZI</p>
+<p class="list">1. Descendant of Eliezer who was in the direct ancestral line of high priests, though he apparently never served in that capacity (<a href="?bref=1Chr.6.5-6,51">1 Chr 6:5-6, 51</a>). He is listed as the son of Bukki and the father of Zerahiah; he was a lineal ancestor of Zadok and later Ezra (<a href="?bref=Ezra.7.4">Ezr 7:4</a>).</p>
+<p class="list">2. Clan chief and mighty warrior of the tribe of Issachar. He was one of the six sons of Tola and the father of Izrahiah, his successor as clan chief (<a href="?bref=1Chr.7.2-3">1 Chr 7:2-3</a>).</p>
+<p class="list">3. Clan chief and mighty warrior of Benjamin’s tribe, listed as one of the sons of Bela (<a href="?bref=1Chr.7.7">1 Chr 7:7</a>).</p>
+<p class="list">4. Head of one of the Benjaminite clans that returned from Babylon, listed as the son of Micri and the father of Elah (<a href="?bref=1Chr.9.8">1 Chr 9:8</a>).</p>
+<p class="list">5. One of the overseers of the Levites in Jerusalem, listed as the son of Bani from the clan of Asaph (<a href="?bref=Neh.11.22">Neh 11:22</a>).</p>
+<p class="list">6. Head of the priestly house of Jedaiah during the days of Joiakim the high priest (<a href="?bref=Neh.12.19">Neh 12:19</a>).</p>
+<p class="list">7. One of the priests (or Levites) who participated in the dedication of the rebuilt temple (<a href="?bref=Neh.12.42">Neh 12:42</a>). He may be the same as #5 or #6 above.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzzia">
+  <title>Uzzia</title>
+  <body>
+<p class="h1">UZZIA</p>
+<p class="fl">One of David’s mighty men (<a href="?bref=1Chr.11.44">1 Chr 11:44</a>). He was described as an Ashterathite, which probably means that he was from Ashtaroth, a town on the east side of the Jordan.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzziah">
+  <title>Uzziah</title>
+  <body>
+<p class="h1">UZZIAH</p>
+<p class="list">1. Judah’s king from around 792 to 740 <span class="era">BC</span> (cf. <a href="?bref=2Kgs.14.21-22">2 Kgs 14:21-22</a>; <a href="?bref=2Kgs.15.1-7">15:1-7</a>; <a href="?bref=2Chr.26.1-23">2 Chr 26:1-23</a>), the son of King Amaziah and Jecoliah of Jerusalem. Uzziah is the name he is called in Chronicles, but in Kings he is known as Azariah. Azariah means “the Lord has helped”; the meaning of Uzziah is “my strength is the Lord.” Azariah may have been his given name and Uzziah a throne name taken upon his accession. He came to the throne at the age of 16, after the death of his father, who was assassinated in Lachish as a result of a conspiracy arising from his apostasy.</p>
+<p class="list-text">Uzziah was a capable, energetic, and well-organized person, with many diverse interests. The Lord blessed him in all of his undertakings, so that he prospered. He is characterized as one who “did what was right in the eyes of the Lord” (<a href="?bref=2Kgs.15.3">2 Kgs 15:3</a>; <a href="?bref=2Chr.26.4">2 Chr 26:4</a>). He determined to seek God and went to Zechariah (not the postexilic prophet) for spiritual instruction. Consequently, “as long as he sought the <span class="divine-name">Lord</span>, God made him prosper” (<a href="?bref=2Chr.26.5">2 Chr 26:5</a>).</p>
+<p class="list-text">The prophets of the Lord were active during his reign. Isaiah, Hosea, and Amos began their prophetic work in the time of Uzziah (<a href="?bref=Isa.1.1">Is 1:1</a>; <a href="?bref=Hos.1.1">Hos 1:1</a>; <a href="?bref=Amos.1.1">Am 1:1</a>). Uzziah was also active with military campaigns. His primary success was against Israel’s strong historical enemy, the Philistines. He broke down the walls of Gath, Jabneh, and Ashdod and built his own cities in Philistia. He also built many fortifications, such as fortified towers in Jerusalem and in the wilderness. He defeated some Arabs and also the Meunites, and he brought the Ammonites under tribute (<a href="?bref=2Chr.27.5-8">2 Chr 27:5-8</a>). Uzziah had an army “fit for war,” which was drafted according to census and organized into divisions. There were 2,600 officers and 307,500 fighting men who could wage war with mighty power. The army was well outfitted, with weapons, such as spears, bows, and sling stones, and with defensive equipment, including shields, helmets, and coats of armor (<a href="?bref=2Chr.26.14">2 Chr 26:14</a>). <a href="?bref=2Chr.26.15">Second Chronicles 26:15</a> describes a kind of catapult, which was to be stationed on the towers and at the corners of walls for defensive purposes. This type of weapon could hurl arrows or large stones. Through his achievements and especially his military power, he became famous.</p>
+<p class="list-text">But Uzziah had a sad downfall. As <a href="?bref=Pr.16.18">Proverbs 16:18</a> says, pride goes before a fall. His pride became clearly evident when he presumed the function of a priest. When he entered the temple to offer incense on the altar of incense, he was confronted for his presumptuous behavior by Azariah the priest and 80 other priests. When Uzziah became angry, the Lord struck him with leprosy, so that he was forced to live in isolation and could not enter the temple. His son, Jotham, became acting head of state and then succeeded to the kingship at the time of Uzziah’s death. </p>
+<p class="list">2. Kohathite Levite and forefather of Samuel (<a href="?bref=1Chr.6.24">1 Chr 6:24</a>).</p>
+<p class="list">3. Father of Jonathan, David’s treasurer (<a href="?bref=1Chr.27.25">1 Chr 27:25</a>).</p>
+<p class="list">4. One of Harim’s five sons who was encouraged by Ezra to divorce his foreign wife during the postexilic period (<a href="?bref=Ezra.10.21">Ezr 10:21</a>; <a class="apocrypha" href="?bref=1Esd.9.21">1 Esd 9:21</a>).</p>
+<p class="list">5. Descendant of Perez from Judah’s tribe (<a href="?bref=Neh.11.4">Neh 11:4</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Uzziel">
+  <title>Uzziel</title>
+  <body>
+<p class="h1">UZZIEL</p>
+<p class="list">1. Youngest of the sons of Kohath of Levi’s tribe, who became the head of the Uzzielite division of the Kohathites (<a href="?bref=Exod.6.18">Ex 6:18</a>; <a href="?bref=Num.3.19,27,30">Nm 3:19, 27, 30</a>; <a href="?bref=1Chr.26.23">1 Chr 26:23</a>). He was Aaron’s uncle, and his sons, Mishael and Elzaphan, carried Nadab and Abihu out of the camp when they rebelled against Aaron’s authority (<a href="?bref=Exod.6.22">Ex 6:22</a>; <a href="?bref=Lev.10.4">Lv 10:4</a>). Several of his descendants were significant during Israel’s history, including Amminadab, who officiated over David’s transfer of the ark to Jerusalem, and Micah and Isshiah, who were chiefs among the Levites during the reign of Solomon (<a href="?bref=1Chr.15.10">1 Chr 15:10</a>; <a href="?bref=1Chr.23.20">23:20</a>).</p>
+<p class="list">2. Son of Ishi who was one of the leaders of the Simeonite warriors who defeated the Ammonites at Seir during the reign of Hezekiah (<a href="?bref=1Chr.4.42">1 Chr 4:42</a>). As a result of defeating the Amalekites, who had not been defeated earlier by Saul or David, the Simeonites inherited the land.</p>
+<p class="list">3. Benjaminite clan chief who is listed as the son of Bela, the son of Benjamin (<a href="?bref=1Chr.7.7">1 Chr 7:7</a>).</p>
+<p class="list">4. Son of Heman of the Levite clan of Asaph (<a href="?bref=1Chr.25.4">1 Chr 25:4</a>). A variant name is Azarel (v <a href="?bref=1Chr.25.18">18</a>, <span class="sc">nlt</span> mg).</p>
+<p class="list">5. Levite who participated in the reconsecration of the temple under Hezekiah (<a href="?bref=2Chr.29.14">2 Chr 29:14</a>), listed as the son of Jeduthun.</p>
+<p class="list">6. Goldsmith who worked on rebuilding the gates of Jerusalem (<a href="?bref=Neh.3.8">Neh 3:8</a>). His name indicates that he was likely a priest who had the responsibility of making and repairing the temple instruments and vessels (cf. <a href="?bref=1Chr.9.29">1 Chr 9:29</a>).</p>
+  </body>
+</item>
+</items>

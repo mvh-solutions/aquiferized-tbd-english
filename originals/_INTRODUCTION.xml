@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<items release="1.6">
+<item typename="FrontMatter" name="Introduction" product="TyndaleOpenBibleDictionary">
+	<title>Introduction to the Tyndale Open Bible Dictionary</title>
+	<body>
+<p class="h1">Introduction to the <span class="ital">Tyndale Open Bible Dictionary</span></p>
+<p class="fl">The <span class="ital">Tyndale Open Bible Dictionary</span> is a comprehensive Bible dictionary, including articles for each book of the Bible and all the significant people, places, and terms found therein. In addition, it contains articles on the cultural context of scripture and on important theological terms.</p>
+<p class="h2">Asterisks</p>
+<p class="fl">This dictionary presents terms from a variety of Bible versions. Though the New Living Translation is the primary version used, hundreds of terms appear in the dictionary that do not appear in the NLT. Dictionary entries marked with an asterisk (*) are for words that are not found in the New Living Translation but may appear in other versions such as the King James Version and Revised Standard Version.</p>
+<p class="h2">Cross-References</p>
+<p class="fl">Two types of cross-references are used:</p>
+<p class="list-space">• <span class="bold">“See” references</span> point to one or more articles that contain information considered necessary for a complete understanding of the topic in question.</p>
+<p class="list">• <span class="bold">“See also” references</span> point to one or more articles that contain information considered helpful but not essential.</p>
+<p class="fl">Both “See” and “See also” references refer to articles by topic name. When a topic name appears in a cross-reference in quotes, the reference is to a text box that occurs within a larger article.</p>
+<p class="h2">Abbreviations</p>
+<p class="h3">Apocryphal Books</p>
+<table>
+<tr><td><p class="td">Add Est</p></td><td><p class="td">Additions to Esther</p></td></tr>
+<tr><td><p class="td">Bar</p></td><td><p class="td">Baruch</p></td></tr>
+<tr><td><p class="td">Bel</p></td><td><p class="td">Bel and the Dragon</p></td></tr>
+<tr><td><p class="td">1 Esd</p></td><td><p class="td">1 Esdras</p></td></tr>
+<tr><td><p class="td">2 Esd</p></td><td><p class="td">2 Esdras</p></td></tr>
+<tr><td><p class="td">Ecclus</p></td><td><p class="td">Sirach (Ecclesiasticus)</p></td></tr>
+<tr><td><p class="td">Jdt</p></td><td><p class="td">Judith</p></td></tr>
+<tr><td><p class="td">1 Macc</p></td><td><p class="td">1 Maccabees</p></td></tr>
+<tr><td><p class="td">2 Macc</p></td><td><p class="td">2 Maccabees</p></td></tr>
+<tr><td><p class="td">3 Macc</p></td><td><p class="td">3 Maccabees</p></td></tr>
+<tr><td><p class="td">4 Macc</p></td><td><p class="td">4 Maccabees</p></td></tr>
+<tr><td><p class="td">Tb</p></td><td><p class="td">Tobit</p></td></tr>
+<tr><td><p class="td">Wisd of Sol</p></td><td><p class="td">Wisdom of Solomon</p></td></tr>
+</table>
+<p class="h3">Dead Sea Scrolls (Non-Canonical)</p>
+<table>
+<tr><td><p class="td">CD</p></td><td><p class="td">Cairo Damascus Document</p></td></tr>
+<tr><td><p class="td">1QM</p></td><td><p class="td">War Scroll</p></td></tr>
+<tr><td><p class="td">2QS</p></td><td><p class="td">Manual of Discipline</p></td></tr>
+<tr><td><p class="td">1QSa</p></td><td><p class="td">Rule of the Congregation</p></td></tr>
+</table>
+<p class="h3">Other Writings</p>
+<table>
+<p class="td"><span class="ital">Antiquities</span><tab/>Josephus, <span class="ital">Antiquities of the Jews</span></p>
+<p class="td"><span class="ital">Apion</span><tab/>Josephus, <span class="ital">Against Apion</span></p>
+<tr><td><p class="td">Dio Cassius</p></td><td><p class="td">Dio Cassius, <span class="ital">Roman History</span></p></td></tr>
+<tr><td><p class="td">Eusebius</p></td><td><p class="td">Eusebius, <span class="ital">Historia Ecclesiastica</span></p></td></tr>
+<p class="td"><span class="ital">Prol Gal</span><tab/>Jerome, <span class="ital">Prologue to Galatians</span></p>
+<tr><td><p class="td">Strabo</p></td><td><p class="td">Strabo, <span class="ital">Biography</span></p></td></tr>
+<tr><td><p class="td">Tacitus</p></td><td><p class="td">Tacitus, <span class="ital">Histories</span></p></td></tr>
+<p class="td"><span class="ital">War</span><tab/>Josephus, <span class="ital">The Jewish War</span></p>
+</table>
+<p class="h3">Bible Versions</p>
+<table>
+<tr><td><p class="td">ASV</p></td><td><p class="td">American Standard Version</p></td></tr>
+<tr><td><p class="td">ERV</p></td><td><p class="td">English Revised Version</p></td></tr>
+<tr><td><p class="td">JB</p></td><td><p class="td">Jerusalem Bible</p></td></tr>
+<tr><td><p class="td">KJV</p></td><td><p class="td">King James Version</p></td></tr>
+<tr><td><p class="td">NASB</p></td><td><p class="td">New American Standard Bible</p></td></tr>
+<tr><td><p class="td">NEB</p></td><td><p class="td">New English Bible</p></td></tr>
+<tr><td><p class="td">NIV</p></td><td><p class="td">New International Version</p></td></tr>
+<tr><td><p class="td">NJB</p></td><td><p class="td">New Jerusalem Bible</p></td></tr>
+<tr><td><p class="td">NLT</p></td><td><p class="td">New Living Translation</p></td></tr>
+<tr><td><p class="td">NRSV</p></td><td><p class="td">New Revised Standard Version</p></td></tr>
+<tr><td><p class="td">RSV</p></td><td><p class="td">Revised Standard Version</p></td></tr>
+<tr><td><p class="td">REB</p></td><td><p class="td">Revised English Bible</p></td></tr>
+<tr><td><p class="td">TEV</p></td><td><p class="td">Today’s English Version</p></td></tr>
+<tr><td><p class="td">TLB</p></td><td><p class="td">The Living Bible</p></td></tr>
+</table>
+<p class="h3">Other Abbreviations</p>
+<table>
+<tr><td><p class="td">approx.</p></td><td><p class="td">approximately</p></td></tr>
+<tr><td><p class="td">c.</p></td><td><p class="td">circa—approximately</p></td></tr>
+<tr><td><p class="td">cf.</p></td><td><p class="td">compare</p></td></tr>
+<tr><td><p class="td">ch, chs</p></td><td><p class="td">chapter, chapters</p></td></tr>
+<tr><td><p class="td">d.</p></td><td><p class="td">died</p></td></tr>
+<tr><td><p class="td">ed</p></td><td><p class="td">edition, editions; editor, editors</p></td></tr>
+<tr><td><p class="td">e.g.,</p></td><td><p class="td">for example,</p></td></tr>
+<tr><td><p class="td">et al.</p></td><td><p class="td">and others</p></td></tr>
+<tr><td><p class="td">etc.</p></td><td><p class="td">and so forth</p></td></tr>
+<tr><td><p class="td">i.e.,</p></td><td><p class="td">that is,</p></td></tr>
+<tr><td><p class="td">lit.</p></td><td><p class="td">literal, literally</p></td></tr>
+<tr><td><p class="td">LXX</p></td><td><p class="td">Septuagint</p></td></tr>
+<tr><td><p class="td">mg</p></td><td><p class="td">a variant reading noted in the margin or footnote of a translation</p></td></tr>
+<tr><td><p class="td">MS, MSS</p></td><td><p class="td">manuscript, manuscripts</p></td></tr>
+<tr><td><p class="td">Mt</p></td><td><p class="td">Mountain, Mount</p></td></tr>
+<tr><td><p class="td">MT</p></td><td><p class="td">Masoretic Text</p></td></tr>
+<tr><td><p class="td">NT</p></td><td><p class="td">New Testament</p></td></tr>
+<tr><td><p class="td">OT</p></td><td><p class="td">Old Testament</p></td></tr>
+<tr><td><p class="td">p, pp</p></td><td><p class="td">page, pages</p></td></tr>
+<tr><td><p class="td">St</p></td><td><p class="td">Saint</p></td></tr>
+<tr><td><p class="td">TR</p></td><td><p class="td">Textus Receptus</p></td></tr>
+<tr><td><p class="td">v, vv</p></td><td><p class="td">verse, verses</p></td></tr>
+<tr><td><p class="td">vid</p></td><td><p class="td">Latin for “it appears [to read as such]”</p></td></tr>
+<tr><td><p class="td">vol, vols</p></td><td><p class="td">volume, volumes</p></td></tr>
+<tr><td><p class="td">yr., yrs.</p></td><td><p class="td">year, years</p></td></tr>
+</table>
+<p class="h2">Permissions for Written Works</p>
+<p class="fl">Some of the articles in this dictionary have been adapted from other works published by Tyndale House Publishers, particularly <span class="ital">The Origin of the Bible</span> and <span class="ital">Who’s Who in Christian History.</span> In preparing several other articles, the editor, Philip Comfort, made some adaptions from his own previously published works, now no longer in print. These works are as follows: <span class="ital">New Commentary on the Whole Bible</span> (New Testament volume); <span class="ital">I Am the Way; Opening the Gospel of John</span> (with W. Hawley); <span class="ital">The Complete Guide to Bible Versions; The Quest for the Original Text of the New Testament; Early Manuscripts and Modern Translations of the New Testament;</span> and <span class="ital">The Inspired Word.</span></p>
+<p class="h2">Contributors</p>
+<p class="h3">General Editors</p>
+<p class="contributor">Philip W. Comfort</p>
+<p class="contributor">Walter A. Elwell</p>
+<p class="h3">Coordinating Editor</p>
+<p class="contributor">Jeremy P. Taylor</p>
+<p class="h3">Writers</p>
+<p class="contributor">Wallace Alcorn</p>
+<p class="contributor">Robert L. Alden</p>
+<p class="contributor">L. C. Allen</p>
+<p class="contributor">Ronald Allen</p>
+<p class="contributor">James F. Babcock</p>
+<p class="contributor">Clarence B. Bass</p>
+<p class="contributor">Barry Beitzel</p>
+<p class="contributor">W. Wilson Benton, Jr.</p>
+<p class="contributor">Gilbert Bilezikian</p>
+<p class="contributor">E. M. Blaiklock</p>
+<p class="contributor">George Blankenbaker</p>
+<p class="contributor">Gerald L. Borchert</p>
+<p class="contributor">Manfred T. Brauch</p>
+<p class="contributor">Kenneth J. Bryer</p>
+<p class="contributor">H. Douglas Buckwalter</p>
+<p class="contributor">George E. Cannon</p>
+<p class="contributor">David C. Carlson</p>
+<p class="contributor">J. Knox Chamblin</p>
+<p class="contributor">Philip W. Comfort</p>
+<p class="contributor">Roger Douglass Congdon</p>
+<p class="contributor">Mark T. Coppenger</p>
+<p class="contributor">David Cornell</p>
+<p class="contributor">John Crandall</p>
+<p class="contributor">Robert D. Culver</p>
+<p class="contributor">Peter H. Davids</p>
+<p class="contributor">Bruce A. Demarest</p>
+<p class="contributor">Carl E. DeVries</p>
+<p class="contributor">Paul H. DeVries</p>
+<p class="contributor">James C. DeYoung</p>
+<p class="contributor">Raymond B. Dillard</p>
+<p class="contributor">J. D. Douglas</p>
+<p class="contributor">James D. G. Dunn</p>
+<p class="contributor">J. J. Edwards</p>
+<p class="contributor">John Elliott</p>
+<p class="contributor">Walter A. Elwell</p>
+<p class="contributor">H. K. Farrell</p>
+<p class="contributor">Paul F. Feiler</p>
+<p class="contributor">David A. Fields</p>
+<p class="contributor">Charles L. Feinberg</p>
+<p class="contributor">Harvey E. Finley</p>
+<p class="contributor">John Fischer</p>
+<p class="contributor">Francis Foulkes</p>
+<p class="contributor">Louis Goldberg</p>
+<p class="contributor">Wesley L. Gerig</p>
+<p class="contributor">Robert Guelich</p>
+<p class="contributor">D. L. Hall</p>
+<p class="contributor">J. Gordon Harris</p>
+<p class="contributor">R. K. Harrison</p>
+<p class="contributor">Ginnie Hearn</p>
+<p class="contributor">Walter Hearn</p>
+<p class="contributor">Paul Helm</p>
+<p class="contributor">Carl Wayne Hensley</p>
+<p class="contributor">Andrew E. Hill</p>
+<p class="contributor">Harold W. Hoehner</p>
+<p class="contributor">James M. Houston</p>
+<p class="contributor">E. Margaret Howe</p>
+<p class="contributor">F. B. Huey, Jr.</p>
+<p class="contributor">Philip Edgcumbe Hughes</p>
+<p class="contributor">David K. Huttar</p>
+<p class="contributor">Edgar C. James</p>
+<p class="contributor">Jakob Jocz</p>
+<p class="contributor">Paul Kaufman</p>
+<p class="contributor">Donald Kenney</p>
+<p class="contributor">William Nigel Kerr</p>
+<p class="contributor">Eugene F. Klug</p>
+<p class="contributor">George E. Ladd</p>
+<p class="contributor">William Lane</p>
+<p class="contributor">William Sanford LaSor</p>
+<p class="contributor">F. Duane Lindsey</p>
+<p class="contributor">Robert W. Lyon</p>
+<p class="contributor">W. Harold Mare</p>
+<p class="contributor">James L. Mason</p>
+<p class="contributor">Gerald L. Mattingly</p>
+<p class="contributor">Paul K. McAlister</p>
+<p class="contributor">Jim McClanahan</p>
+<p class="contributor">Thomas E. McComiskey</p>
+<p class="contributor">J. Gordon McConville</p>
+<p class="contributor">Wayne O. McCready</p>
+<p class="contributor">Lee McDonald</p>
+<p class="contributor">Douglas J. Miller</p>
+<p class="contributor">Robert H. Mounce</p>
+<p class="contributor">W. Robert Myers</p>
+<p class="contributor">Roger Nicole</p>
+<p class="contributor">Mark R. Norton</p>
+<p class="contributor">Grant Osborne</p>
+<p class="contributor">Daniel Partner</p>
+<p class="contributor">Hazel W. Perkin</p>
+<p class="contributor">John Piippo</p>
+<p class="contributor">John Piper</p>
+<p class="contributor">Gary Pollitt</p>
+<p class="contributor">Austin H. Potts</p>
+<p class="contributor">Ralph E. Powell</p>
+<p class="contributor">James D. Price</p>
+<p class="contributor">Joe Prochaska</p>
+<p class="contributor">Anson F. Rainey</p>
+<p class="contributor">Bernard L. Ramm</p>
+<p class="contributor">Robert L. Reymond</p>
+<p class="contributor">Arthur Rupprecht</p>
+<p class="contributor">William S. Sailer</p>
+<p class="contributor">Stuart D. Sacks</p>
+<p class="contributor">J. Julius Scott, Jr.</p>
+<p class="contributor">Jack B. Scott</p>
+<p class="contributor">A. Selander</p>
+<p class="contributor">H. LaVern Schafer</p>
+<p class="contributor">Norman Shepherd</p>
+<p class="contributor">John W. Sider</p>
+<p class="contributor">Moises Silva</p>
+<p class="contributor">Elmer B. Smick</p>
+<p class="contributor">Albert J. Smith</p>
+<p class="contributor">Ralph L. Smith</p>
+<p class="contributor">Klyne R. Snodgrass</p>
+<p class="contributor">Robert H. Stein</p>
+<p class="contributor">Stephen S. Taylor</p>
+<p class="contributor">John Arthur Thompson</p>
+<p class="contributor">J. G. S. S. Thomson</p>
+<p class="contributor">William B. Tolar</p>
+<p class="contributor">William Travis</p>
+<p class="contributor">George Allen Turner</p>
+<p class="contributor">Willem A. VanGemeren</p>
+<p class="contributor">Gerard Van Groningen</p>
+<p class="contributor">David E. Van Reken</p>
+<p class="contributor">Howard F. Vos</p>
+<p class="contributor">Victor L. Walter</p>
+<p class="contributor">Bruce K. Waltke</p>
+<p class="contributor">David W. Wead</p>
+<p class="contributor">Marsha Wegner</p>
+<p class="contributor">Morris A. Weigelt</p>
+<p class="contributor">Gordon J. Wenham</p>
+<p class="contributor">R. E. O. White</p>
+<p class="contributor">William White, Jr.</p>
+<p class="contributor">Luder G. Whitlock, Jr.</p>
+<p class="contributor">Michael Wilcock</p>
+<p class="contributor">Fred M. Williams III</p>
+<p class="contributor">John P. Williams</p>
+<p class="contributor">R. Milton Winter</p>
+<p class="contributor">Herbert M. Wolf</p>
+<p class="contributor">Marten H. Woudstra</p>
+<p class="contributor">R. K. McGregor Wright</p>
+<p class="contributor">Warren C. Young</p>
+<p class="contributor">Ronald F. Youngblood</p>
+</body>
+</item>
+</items>

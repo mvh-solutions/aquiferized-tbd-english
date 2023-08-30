@@ -1,0 +1,134 @@
+<items release="1.6">
+<item typename="DictionaryLetter" name="Q" product="TyndaleBibleDict">
+  <body>
+<p class="h1">Q</p>
+  <p class="toc"><a href="?item=Qere_Article_TyndaleOpenBibleDictionary">Qere*</a></p>
+<p class="toc"><a href="?item=Qesitah_Article_TyndaleOpenBibleDictionary">Qesitah*</a></p>
+<p class="toc"><a href="?item=Qoheleth_Article_TyndaleOpenBibleDictionary">Qoheleth*</a></p>
+<p class="toc"><a href="?item=QuadratusApologyof_Article_TyndaleOpenBibleDictionary">Quadratus*, Apology of</a></p>
+<p class="toc"><a href="?item=Quail_Article_TyndaleOpenBibleDictionary">Quail</a></p>
+<p class="toc"><a href="?item=Quart_Article_TyndaleOpenBibleDictionary">Quart</a></p>
+<p class="toc"><a href="?item=Quartus_Article_TyndaleOpenBibleDictionary">Quartus</a></p>
+<p class="toc"><a href="?item=Quaternion_Article_TyndaleOpenBibleDictionary">Quaternion*</a></p>
+<p class="toc"><a href="?item=Queen_Article_TyndaleOpenBibleDictionary">Queen</a></p>
+<p class="toc"><a href="?item=QueenofHeaven_Article_TyndaleOpenBibleDictionary">Queen of Heaven</a></p>
+<p class="toc"><a href="?item=Quirinius_Article_TyndaleOpenBibleDictionary">Quirinius</a></p>
+<p class="toc"><a href="?item=Qumran_Article_TyndaleOpenBibleDictionary">Qumran*</a></p>
+<p class="toc"><a href="?item=QuotationsoftheOldTestamentintheNewTestament_Article_TyndaleOpenBibleDictionary">Quotations of the Old Testament in the New Testament*</a></p>
+</body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Qere">
+  <title>Qere*</title>
+  <body>
+<p class="h1">QERE*</p>
+<p class="fl">An anglicized Aramaic word meaning “what is to be read.” Until the time of the Masoretes, the Hebrew Bible was written only with consonants. The Masoretes, however, thought that the vowels would clarify the Scriptures and therefore began to copy them with the vowels. When they came across a word they thought was unclear by its normal vowels, they would put the word in the margin with other vowels, changing the meaning or intent. The word that was written in the text was called the “Ketib,” and what was to be read, “Qere.” This is the variant marginal reading.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Qesitah">
+  <title>Qesitah*</title>
+  <body>
+<p class="h1">QESITAH*</p>
+<p class="fl">Weight of unknown value (<a href="?bref=Gen.33.19">Gn 33:19</a>; <a href="?bref=Josh.24.32">Jos 24:32</a>; <a href="?bref=Job.42.11">Jb 42:11</a>, <span class="sc">rsv</span> mg). <span class="ital">See</span> <a href="?item=Money_Article_TyndaleOpenBibleDictionary">Money</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Qoheleth">
+  <title>Qoheleth*</title>
+  <body>
+<p class="h1">QOHELETH*</p>
+<p class="fl">Hebrew title for the book of Ecclesiastes, translated “the Preacher” or “the Teacher”; also spelled “Koheleth.” Derived from a word meaning “to call an assembly,” it came to mean “to address an assembly.” The author of the book calls himself Qoheleth in numerous passages. <span class="ital">See</span> <a href="?item=EcclesiastesBookof_Article_TyndaleOpenBibleDictionary">Ecclesiastes, Book of</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="QuadratusApologyof">
+  <title>Quadratus*, Apology of</title>
+  <body>
+<p class="h1">QUADRATUS*, Apology of</p>
+<p class="fl">An early Christian apology was written by Quadratus (c. <span class="era">AD</span> 125) to the emperor Hadrian as a defense of Christianity. The only surviving fragment is found in the writings of Eusebius, where these words are credited to Quadratus:</p>
+<p class="extract-fl-space">But the works of our Savior were always present (for they were genuine): namely, those who healed, those who rose from the dead; who were not only seen in the act of being healed or raised, but were also always present; and not merely when the Savior was on earth, but after his departure as well, they lived for a considerable time; insomuch that some of them survived even to our own day.</p>
+<p class="sp">According to Eusebius, the apology was written in order to defend the church because “certain evil men tried to trouble those who belonged to us.” Moreover, Quadratus hoped to persuade Hadrian of the truthfulness of Christianity so that he, being assured of the pure intents of the Christians, would call a halt to the persecutions. The apology of Quadratus is sometimes mistakenly identified with the “Letter to Diognetus.”</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Quail">
+  <title>Quail</title>
+  <body>
+<p class="h1">QUAIL</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=Birds_Article_TyndaleOpenBibleDictionary">Birds</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Quart">
+  <title>Quart</title>
+  <body>
+<p class="h1">QUART</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=WeightsandMeasures_Article_TyndaleOpenBibleDictionary">Weights and Measures (Choinix)</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Quartus">
+  <title>Quartus</title>
+  <body>
+<p class="h1">QUARTUS</p>
+<p class="fl">Christian who joined the apostle Paul in sending greetings to the church in Rome (<a href="?bref=Rom.16.23">Rom 16:23</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Quaternion">
+  <title>Quaternion*</title>
+  <body>
+<p class="h1">QUATERNION*</p>
+<p class="fl">KJV translation for “squad” in <a href="?bref=Acts.12.4">Acts 12:4</a>. <span class="ital">See</span> <a href="?item=Warfare_Article_TyndaleOpenBibleDictionary">Warfare</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Queen">
+  <title>Queen</title>
+  <body>
+<p class="h1">QUEEN</p>
+<p class="fl">Word used to describe a reigning monarch, a queen consort, or a queen mother. The queen of Sheba became the epitome of wealth at the time of her visit to the luxurious court of King Solomon (<a href="?bref=1Kgs.10.1">1 Kgs 10:1</a>; <a href="?bref=Matt.12.42">Mt 12:42</a>; <a href="?bref=Luke.11.31">Lk 11:31</a>), when she arrived with a large retinue and camels bearing gold, jewels, and spices. Candace, queen of Ethiopia, is mentioned when a eunuch, a senior minister in her court, is converted by Philip while on a visit to Jerusalem (<a href="?bref=Acts.8.27">Acts 8:27</a>).</p>
+<p>In Jewish history, Athaliah, thinking that she had murdered all rival claimants to the throne within the royal family, reigned for six years (<a href="?bref=2Kgs.11.3">2 Kgs 11:3</a>). Also, Salome Alexandra succeeded her husband, Alexander Janneus, as ruler from 76 to 67 <span class="era">BC</span>. A queen consort normally played a minor role, although Bathsheba (<a href="?bref=1Kgs.1.15-31">1 Kgs 1:15-31</a>), who was determined to ensure the succession of her son, and Jezebel (ch <a href="?bref=1Kgs.21.1-29">21</a>), who plotted the false accusation leading to the death of Naboth, are notable exceptions. The powerful role was that of queen mother. She not only ruled over the royal household but also was held in respect both by the court and by the monarch (cf. <a href="?bref=Exod.20.12">Ex 20:12</a>). Her requests were unlikely to be denied (<a href="?bref=1Kgs.2.20">1 Kgs 2:20</a>). As the mother of the king, she was unique, whereas his wives might share their position with several others. Maacah, queen mother of Abijam, even retained her authority during much of her grandson’s reign (<a href="?bref=1Kgs.15.2,10,13">1 Kgs 15:2, 10, 13</a>; <a href="?bref=2Chr.15.16">2 Chr 15:16</a>). The queen mother was crowned (<a href="?bref=Jer.13.18">Jer 13:18</a>), and Bathsheba, powerful enough as queen, was seated at the right hand of King Solomon when she became queen mother (<a href="?bref=1Kgs.2.19">1 Kgs 2:19</a>).</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="QueenofHeaven">
+  <title>Queen of Heaven</title>
+  <body>
+<p class="h1">QUEEN OF HEAVEN</p>
+<p class="fl">Goddess mentioned by Jeremiah in his denunciations of Judah’s idolatry (<a href="?bref=Jer.7.18">Jer 7:18</a>; <a href="?bref=Jer.44.17-19,25">44:17-19, 25</a>). The women of Judah were especially involved in worshiping the Queen of Heaven. After the destruction and depopulation of Jerusalem in 586 <span class="era">BC</span>, a group of exiles fled to Egypt, carrying Jeremiah with them. There he again condemned the idolatry that had brought this disaster. This provoked a sharp reaction from the men and their wives. In the recent catastrophe, they had seemingly vowed to return to the worship of the Queen of Heaven. They claimed that since they had given up this worship, nothing but trouble had befallen the nation—the complete reversal of Jeremiah’s affirmation. To this, the prophet’s response was that if this was their attitude, nothing remained to be said. He delivered them over to their reprobate mind, asserting that in Egypt, among the Jews who settled there, true worship would become extinct, so that even the name of the Lord would not be heard (<a href="?bref=Jer.44.25-28">44:25-28</a>).</p>
+<p>The goddess is generally identified with Ishtar, a Babylonian deity associated with the planet Venus, whose worship was probably imported into Judah during Manasseh’s reign. Through the preaching of the prophets and the reforms of Josiah, worship of this god largely died out, but it must still have been cherished secretly, possibly among the women of the royal court.</p>
+<p><span class="ital">See also</span> <a href="?item=CanaaniteDeitiesandReligion_Article_TyndaleOpenBibleDictionary">Canaanite Deities and Religion</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Quirinius">
+  <title>Quirinius</title>
+  <body>
+<p class="h1">QUIRINIUS</p>
+<p class="fl">Roman governor of Syria at the time of Jesus’ birth (<a href="?bref=Luke.2.2">Lk 2:2</a>). According to the Roman historian Tacitus (<span class="ital">Annals</span> 3.48), Publius Sulpicius Quirinius was elected consul of Syria in 12 <span class="era">BC</span>. He was appointed around 7 <span class="era">BC</span>, along with Varus, legatus (or governor) of Syria. His duties concentrated on military and foreign affairs, while Varus concerned himself with civil matters. Quirinius’s first administration as governor lasted several years, during which time he led a successful expedition against the Homonadenses, an unruly group of rebel mountaineers who lived in the Cilician province of Asia Minor, and superintended in his region the empire-wide census decreed by Caesar Augustus. Luke records that Jesus’ birth took place at the time of this first enrollment “when Quirinius was governor of Syria” (<a href="?bref=Luke.2.2">Lk 2:2</a>), and according to Matthew, during the days of King Herod the Great (<a href="?bref=Matt.2.1">Mt 2:1</a>)—presumably in 4 <span class="era">BC</span>.</p>
+<p>Quirinius became rector to Gaius Caesar in 1 <span class="era">BC</span> and married Aemilia Ledipa in <span class="era">AD</span> 2, whom he subsequently divorced. In <span class="era">AD</span> 6, he was reappointed legatus of Syria, perhaps serving in this position for a couple of years. In this second administration Quirinius again supervised a census of Judea. However, the second census was not administered according to Jewish custom, as was the first. The second census taxed the Jews as a subservient people to the Roman state, thus causing Jewish opposition and rebellion toward Rome. This is probably the census referred to by the Jewish historian Josephus (<span class="ital">Antiquities</span> 17.13.5) and Gamaliel (<a href="?bref=Acts.5.37">Acts 5:37</a>). The remainder of Quirinius’s career was probably spent in Rome, where he died at an advanced age (c. <span class="era">AD</span> 21).</p>
+<p><span class="ital">See also</span> <a href="?item=Census_Article_TyndaleOpenBibleDictionary">Census</a>; <a href="?item=ChronologyoftheBibleNewTestament_Article_TyndaleOpenBibleDictionary">Chronology of the Bible (New Testament)</a>.</p>
+  </body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="Qumran">
+  <title>Qumran*</title>
+  <body>
+<p class="h1">QUMRAN*</p>
+<p class="fl">Ancient Jewish religious community near the site where the Dead Sea Scrolls were found in 1947.</p>
+<p>On the north side of the Wadi Qumran, about one mile (1.6 kilometers) south of Cave I, lie the ruins of a Jewish monastery known as Khirbet Qumran. The ruins had been noted by travelers for years.</p>
+<p class="h2" id="ExcavationsatKhirbetQumran">Excavations at Khirbet Qumran</p>
+<p class="fl">Preliminary investigations of Khirbet Qumran were made in 1949 by Harding and de Vaux. Systematic excavations were carried out, beginning in 1951, under the auspices of the Jordanian Archaeological Museum and the École Biblique. They uncovered the main building in the complex, concluding that it was the center of a well-organized community. An estimated 200 to 400 people lived at Qumran at one time, most of them in tents outside the buildings or in nearby caves. A large cemetery, with smaller secondary graveyards, was located to the east toward the Dead Sea. De Vaux concluded that Khirbet Qumran was the headquarters of a Jewish sect called the Essenes.</p>
+<p>Investigations at the site have shown that it was occupied at various times in antiquity. The earliest level of occupation dates back to the eighth and seventh centuries <span class="era">BC</span>. Some have suggested that the buildings and cisterns may have been built during the reign of King Uzziah (cf. <a href="?bref=2Chr.26.10">2 Chr 26:10</a>). Evidence of occupation of the site in the Greco-Roman period is abundant. A major settlement began shortly before 100 <span class="era">BC</span>, probably in the time of Hyrcanus I (the first ruling priest of the Hasmonean dynasty, 134–104 <span class="era">BC</span>), and ended with an earthquake in 31 <span class="era">BC</span>. The site was probably reoccupied about the time of the death of Herod the Great (4 <span class="era">BC</span>). That occupation ended when the area was captured by the Romans in <span class="era">AD</span> 68. A Roman garrison remained there until about <span class="era">AD</span> 90. Finally, Jewish rebels used the site in the second revolt against the Romans under Bar-Kochba in <span class="era">AD</span> 132–135.</p>
+<p>The largest building was the main assembly hall, with adjoining rooms. Pottery was found in abundance, not only for kitchen use but also (probably) for housing the scrolls, which were copied in the writing room, or scriptorium. Although no manuscripts were found in the ruins of Khirbet Qumran, the pottery was similar to that in which the scrolls were found in Cave I, thus establishing a link between the ruins and the manuscripts. Low plaster tables or benches, together with inkwells dating from Roman times, were found in the scriptorium.</p>
+<p>An interesting feature of the area was an elaborate water system, with many round and rectangular cisterns that collected water from the mountains to the west. The cisterns were probably used for ritual purifications and baptismal ceremonies of the Qumran sect. Hundreds of coins from the Greco-Roman period have also helped in dating the various layers of occupation. An oasis and spring known as ‘Ain Feshka, about two miles (3.2 kilometers) to the south, appears to have been an agricultural outpost of Khirbet Qumran.</p>
+<p class="h2" id="IdentityoftheQumranSect">Identity of the Qumran Sect</p>
+<p class="fl">The Qumran community was a sectarian group of Judaism. It originated in the second century <span class="era">BC</span>, probably as a result of the imposition of Greek culture on the Jews by rulers of the Seleucid dynasty. The community repudiated the temple at Jerusalem and withdrew into the desert. “Damascus” was probably the designation of their community at Qumran. As the “community of God,” the members believed they were obedient to God’s will and were keeping his covenant.</p>
+<p>The sect has been identified with various groups, including the Hasidim, Pharisees, Sadducees, Zealots, Ebionites, and others. The best identification seems to be with the Essenes, a sect mentioned by such first-century <span class="era">AD</span> writers as Josephus, Philo, and Pliny the Elder. They described the Essenes as an ascetic group who lived along the western shores of the Dead Sea. In addition to the geographical and chronological arguments in favor of that identification, a more important argument is based on similarities in beliefs and practices between the Qumran community and the Essenes. Both had a probationary period of about two years for entrance into the group, ranked the members in their community, held their property and wealth in common, ate communal meals, practiced immersion and ritual cleansings, and were subject to the discipline and examination of overseers.</p>
+<p>The Qumran sect was composed of priests and laity. The council of the community consisted of 15 men: 3 priests and 12 laymen. A superintendent or examiner was over the whole group. There are some discrepancies and alleged differences between the Qumran sect and the Essenes. Unlike the Essenes, the Qumran members were allowed to marry, and women were permitted entrance into the sect. Although the Essenes were pacifists, the people of Qumran were not.</p>
+<include_items src="../Pictures/Pictures.xml" name="AerialViewOfQumranCompound"/>
+<p class="h2" id="BeliefsoftheQumranSect">Beliefs of the Qumran Sect</p>
+<p class="fl">Like both orthodox Jews and Christians, the Qumran sect held the Scriptures in high esteem. Considering themselves God’s covenant people, they separated themselves from the mainstream of Jewish life to study the law of God and prepare the way of the Lord. As Jews, they believed in the God of the OT: the Lord of creation, sovereign over all things, predestining human beings to either salvation or condemnation. Angels played an important role in their theology as spirit creatures who would fight beside the “elect” in a final war against evil and darkness. The sect strongly emphasized knowledge and, within their basic framework of monotheism, viewed the world as evil and good—with God as the author of both.</p>
+<p>Qumran teachings pictured humans as frail creatures of dust who were utterly sinful and who could be saved only by God’s grace. Cleansing came only as one obeyed God’s ordinances and the community’s teachings as given by the Teacher of Righteousness. The anonymous Teacher of Righteousness described in the “Habakkuk Commentary” and other scrolls was not the founder of the sect but had been raised up by God to teach the community the way of life. He had been given special insight into God’s purposes, which would be accomplished in the end times. He was a priest who had received understanding from God to interpret the words of the prophets, but he was not the Messiah. The Teacher was opposed and persecuted by a “Wicked Priest.” Attempts to identify the Teacher of Righteousness and the Wicked Priest with specific historical figures, as some scholars have tried to do, are purely conjectural.</p>
+<p>The Qumran sect had a strong messianic hope. They believed that they were living in the last days before the coming of the Messiah (or Messiahs) and the final battle with wickedness. The “Damascus Document” used the expression “the anointed ones [messiahs] of Aaron and Israel.” Many scholars see in the expression a reference to two messiahs: a superior priestly messiah (descended from Aaron) and a lesser kingly messiah (descended from Israel). Some scholars even see three messianic figures: one descended from David, a messianic king; one from Aaron, a messianic priest; and one from Moses, a messianic prophet (cf. <a href="?bref=Deut.18.18">Dt 18:18</a>). The Teacher of Righteousness may even have had the role of the anticipated prophet. Members of the community believed in the resurrection of the dead and the immortality of the righteous. The wicked, they taught, would be punished and annihilated by fire.</p>
+<include_items src="../Pictures/Pictures.xml" name="AerialViewOfQumranCaves"/>
+</body>
+</item>
+<item typename="Article" product="TyndaleOpenBibleDictionary" name="QuotationsoftheOldTestamentintheNewTestament">
+  <title>Quotations of the Old Testament in the New Testament*</title>
+  <body>
+<p class="h1">QUOTATIONS OF THE OLD TESTAMENT IN THE NEW TESTAMENT*</p>
+<p class="fl"><span class="ital">See</span> <a href="?item=BibleQuotationsoftheOldTestamentintheNewTestament_Article_TyndaleOpenBibleDictionary">Bible, Quotations of the Old Testament in the New Testament</a>.</p>
+  </body>
+</item>
+</items>

@@ -1,0 +1,73 @@
+_INTRODUCTION.xml
+=================
+p.contributor List paragraph within the Introduction, can be set in columns
+
+Articles
+========
+p.extract Extract paragraph within articles
+p.extract-fl Same as extract, but usually set flush left
+p.extract-fl-space Same as extract-fl, but with space above
+p.h2-list First level subhead within a numbered list
+p.list-0 First level list paragraph within an extract
+p.list-1 Second level list paragraph within an extract
+p.list-text Body text paragraph within a list, usually set with first line indent
+p.list-text-fl Same as list-text, but set flush left
+p.h2-preview First level subhead within article that marks the beginning of an outline section
+p.preview-text Introductory comment before list paragraphs within an outline section
+p.preview-list-first The first list paragraph within an outline section
+p.preview-list Subsequent list paragraph within an outline section
+p.preview-list-1 Second level list indent within an outline section
+p.toc List paragraph containing link to article
+
+Charts
+======
+p.td-indent Second level indent within a table
+
+Maps and Pictures
+=================
+p.caption-head Title of illustration
+p.caption-text Description of illustration
+
+Textboxes
+=========
+p.box-extract Extract paragraph within a text box
+p.box-h2 First level subhead within a text box
+p.box-first The initial paragarph within a text box, usually set flush left
+p.box-h2-poetic First level subhead within a poetic extract within a text box
+
+Common Paragraph Classes
+========================
+p.artfile Paragraph containing only an image
+p.list List paragraph
+p.list-space Same as list but with space above
+p.fl Body paragraph set flush left
+p.h1 Title paragraph
+p.h2 First level subhead
+p.h3 Second level subhead
+p.h4 Third level subhead
+p.h5 Fourth level subhead
+p.sp Body paragraph with space above
+p.poetry-1 First level poetry indent
+p.poetry-1-sp First level poetry indent with space above
+p.poetry-2 Second level poetry indent
+p.poetry-3 Third level poetry indent
+p.td Body paragraph within a table
+
+Common Span Classes
+===================
+span.ital Italic text
+span.ital-bold Italic bold text
+span.sc Small caps text
+span.sc-ital Small caps italic text
+span.ital-bold-sc Same as ital bold but set as small caps
+span.sup Superscript text
+span.ital-super Same as sup but set as italic
+span.bold Bold text
+span.sub Subscript text
+span.divine-name The divine name, usually set as small caps
+span.era Marks BC/AD era designations, usually set as small caps
+span.greek Greek language text
+span.hebrew Hebrew language text
+span.lc Lowercase text
+span.overbar A Greek abbreviation of a sacred name, usually set with a line above
+span.vn Verse numbers in scripture text, usually set as superscript
