@@ -5,7 +5,7 @@
     version="2.0">
     <xsl:template match="/">
         <xsl:for-each select="//item[@typename='Article']">
-            <xsl:result-document href="../../articles/{substring(@name,1,1)}/{@name}.xml">
+            <xsl:result-document href="../../original-articles/{substring(@name,1,1)}/{@name}.xml">
                 <xsl:copy-of select="."/>
             </xsl:result-document>
         </xsl:for-each>
