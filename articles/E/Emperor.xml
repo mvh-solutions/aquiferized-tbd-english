@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="Emperor">
+  <title>Emperor</title>
+  <body>
+<p class="h1">EMPEROR</p>
+<p class="fl">Official designation of the Roman sovereign beginning in 27 <span class="era">BC</span> with the reign of Caesar Augustus; a derivation of imperator, an honorary title of supreme command conferred by the Roman Senate upon one of its victorious generals. <span class="ital">See</span> <a href="?item=Caesarsthe_Article_TyndaleOpenBibleDictionary">Caesars, The</a>.</p>
+<include_items src="../Textboxes/Textboxes.xml" name="EmperorWorship"/>
+  </body>
+</item>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><item typename="Article" product="TyndaleOpenBibleDictionary" name="EshcolPlace">
+  <title>Eshcol (Place)</title>
+  <body>
+<p class="h1">ESHCOL (P<span class="lc">lace</span>)</p>
+<p class="fl">Valley near Hebron from which the spies sent by Moses brought back pomegranates, figs, and a large cluster of grapes (<a href="?bref=Num.13.23-24">Nm 13:23-24</a>; <a href="?bref=Num.32.9">32:9</a>; <a href="?bref=Deut.1.24">Dt 1:24</a>). This site may be identifiable with ’Ain Eshkali, just north of Hebron.</p>
+<include_items src="../Maps/Maps.xml" name="ValleyofEschol"/>
+</body>
+</item>
