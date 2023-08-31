@@ -27,8 +27,9 @@ for (const sourceFile of sourceFiles) {
     .replace(/(<[^/][^>]+>)[\r\n ]+/g, '$1')
     .replace(/(<\/[^>]+>)[\r\n ]+(<[^/][^>]+>)/g, '$1$2')
     .replace(/<(\/?body|title)/g, '\n  <$1')
-    .replace(/<(p|\/item)/g, '\n<$1')
+    .replace(/<(p|\/item|include_items)/g, '\n<$1')
     .replace(/(<\/p>) /g, '$1')
+    .replace(/(<\/span>)(<a)/g, '$1 $2')
 
   const subDirectoryName = sourceFile.split('/')[0]
 
