@@ -1,21 +1,44 @@
 import * as fs from 'node:fs/promises'
 
-const XMLSourceFile = 'Faith.xml'
-const XMLSourcePath = '../mt-adapted-articles/' + XMLSourceFile.substring(0, 1).toUpperCase() + '/' + XMLSourceFile
-const XMLTargetPath = XMLSourcePath.replace('.xml', '_transformed.xml')
+const sourceDirectory = '../mt-adapted-articles/'
+const targetDirectory = sourceDirectory.replace('../', '../transformed/')
 
-const XMLSourceTextHandler = await fs.open(XMLSourcePath)
-const XMLSourceText = await XMLSourceTextHandler.readFile({ encoding: "utf-8" })
+try {
+  await fs.readdir(targetDirectory)
+} catch (error) {
+  await fs.mkdir(targetDirectory, { recursive: true })
+}
 
-let XMLTargetText = XMLSourceText
-  .replace(/[\r\n ]+/g, ' ')
-  .replace(/[\r\n ]+(<\/[^>]+>)/g, '$1')
-  .replace(/(<[^/][^>]+>)[\r\n ]+/g, '$1')
-  .replace(/(<\/[^>]+>)[\r\n ]+(<[^/][^>]+>)/g, '$1$2')
-  .replace(/<(\/?body|title)/g, '\n  <$1')
-  .replace(/<(p|\/item)/g, '\n<$1')
-  .replace(/(<\/p>) /g, '$1')
+const sourceFiles = await fs.readdir(sourceDirectory, { recursive: true });
 
-const XMLTargetTextHandler = await fs.open(XMLTargetPath, 'w')
+for (const sourceFile of sourceFiles) {
 
-await XMLTargetTextHandler.writeFile(XMLTargetText)
+  if (!sourceFile.endsWith('.xml')) {
+    continue
+  }
+
+  const XMLSourcePath = sourceDirectory + sourceFile
+  const XMLSourceTextHandler = await fs.open(XMLSourcePath)
+  const XMLSourceText = await XMLSourceTextHandler.readFile({ encoding: "utf-8" })
+
+  let XMLTargetText = XMLSourceText
+    .replace(/[\r\n ]+/g, ' ')
+    .replace(/[\r\n ]+(<\/[^>]+>)/g, '$1')
+    .replace(/(<[^/][^>]+>)[\r\n ]+/g, '$1')
+    .replace(/(<\/[^>]+>)[\r\n ]+(<[^/][^>]+>)/g, '$1$2')
+    .replace(/<(\/?body|title)/g, '\n  <$1')
+    .replace(/<(p|\/item)/g, '\n<$1')
+    .replace(/(<\/p>) /g, '$1')
+
+  const subDirectoryName = sourceFile.split('/')[0]
+
+  try {
+    await fs.readdir(targetDirectory + subDirectoryName)
+  } catch (error) {
+    await fs.mkdir(targetDirectory + subDirectoryName, { recursive: true })
+  }
+
+  const XMLTargetPath = targetDirectory + sourceFile
+  const XMLTargetTextHandler = await fs.open(XMLTargetPath, 'w')
+  await XMLTargetTextHandler.writeFile(XMLTargetText)
+}
