@@ -6,6 +6,7 @@ Tyndale Bible Dictionary articles, in English, adapted ahead of translation into
 - `original-articles`: The original Tyndale articles split into single files. (More on the splitting below.) The files shouldn't be edited. Their presence allow easy comparison between the adapted and the original files.
 - `scripts`: Transformation scripts for the project
   - `get_articles.xsl`: XSLT transformation script which takes the articles from the `tyndale-source-files` and splits them into single file articles in the `original-articles` folder. This file was meant to be used from within an XML editing tool such as the “Oxygen XML Editor” (non-free).
+  - `reformat_to_tyndale_space_scheme.mjs`: JavaScript transformation script, which attempts to apply the same spacing scheme found in the original Tyndale files.
 - `tyndale-source-files`: The original untransformed “Tyndale Open Bible Dictionary” which can be otherwise downloaded from the [Tyndale Open Resources](https://tyndaleopenresources.com/) website.
 
 ## License
