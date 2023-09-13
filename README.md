@@ -2,7 +2,8 @@
 Tyndale Bible Dictionary articles, in English, adapted ahead of translation into other languages.
 
 ## Directory structure
-- `adapted-articles`: The individual aquiferized articles, adapted and ready for international translation.
+- `adapted-articles`: The individual “aquiferized” articles, adapted and ready for international translation.
+- `changes-to-articles`: A recap of the changes made per article.
 - `original-articles`: The original Tyndale articles split into single files. (More on the splitting below.) The files shouldn't be edited. Their presence allow easy comparison between the adapted and the original files.
 - `scripts`: Transformation scripts for the project
   - `get_articles.xsl`: XSLT transformation script which takes the articles from the `tyndale-source-files` and splits them into single file articles in the `original-articles` folder. This file was meant to be used from within an XML editing tool such as the “Oxygen XML Editor” (non-free).
