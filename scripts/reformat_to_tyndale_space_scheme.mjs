@@ -30,6 +30,7 @@ for (const sourceFile of sourceFiles) {
     .replace(/<(p|\/item|include_items)/g, '\n<$1')
     .replace(/(<\/p>) /g, '$1')
     .replace(/(<\/span>)(<a)/g, '$1 $2')
+    .replace(/<p> <span/g, '<p><span')
 
   const subDirectoryName = sourceFile.split('/')[0]
 
