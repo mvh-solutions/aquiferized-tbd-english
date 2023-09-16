@@ -11,6 +11,9 @@ Tyndale Bible Dictionary articles, in English, adapted ahead of translation into
 - `transformed`: This directory is untracked, and therefore not present in the repository. It is automatically created when running the `reformat_to_tyndale_space_scheme.mjs` script.
 - `tyndale-source-files`: The original untransformed “Tyndale Open Bible Dictionary” which can be otherwise downloaded from the [Tyndale Open Resources](https://tyndaleopenresources.com/) website.
 
+## The `General Style Guide.md` file
+This guide is found at the root of the project and documents the adaptation choices that were taken. It may be accessed directly [here](General%20Style%20Guide.md).
+
 ## License
 [Aquiferized Tyndale Open Bible Dictionary](https://github.com/mvh-solutions/aquiferized-tbd-english) © 2023 by [Biblionexus Foundation](https://lnkd.in/dHk8GNXB) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
 
