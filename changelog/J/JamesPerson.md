@@ -5,4 +5,4 @@ The following sentence was dropped because it seemed unnecessary to the general 
 - by Mary, for such a situation has created difficulty for those who cannot square it with their views on the perpetual virginity of Mary
 
 ## Other
-- 50 changes and rewordings meant to simplify the text without changing its meaning.
+- 34 changes and rewordings meant to simplify the text without changing its meaning.
