@@ -10,8 +10,9 @@ These guidelines:
 ## Replacements
 | Original word or expression | Replacement | Comment |
 | --- | --- | --- |
-| Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 | Epistle, epistle | Letter, letter | The capital _L_ is kept when used in the context of the title of a book of the Bible. |
+| Decalogue | Ten Commandments ||
+| Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 
 ## Possessive apostrophe
 An _’s_ is added straight after names normally ending with a letter _s_, when they possess something. For example: _“Jesus's teaching.”_
