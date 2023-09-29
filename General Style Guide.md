@@ -8,10 +8,23 @@ These guidelines:
 - Is a transparency tool and may help translators take informed translation choices.
 
 ## Replacements
+Not all formal or rare words are replaced, especially if they have their own article in the Tyndale Bible Dictionary. Replacing a key theological word, for instance, would require a substantial amount of work.
+
+The decision is not always straight forward and may require discussion with the team.
+
+### Preserved words table
+| Preserved word or expression | Note | Exceptions |
+| --- | --- | --- |
+| Ark | As a proper noun ||
+| Tabernacle | As a proper noun ||
+| Remembrance || Use “thankfulness” when specifically describing the Lord's Supper. |
+
+### Replacement table
 | Original word or expression | Replacement | Comment |
 | --- | --- | --- |
-| Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 | Epistle, epistle | Letter, letter | The capital _L_ is kept when used in the context of the title of a book of the Bible. |
+| Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
+| Remembrance | Thankfulness | Only and only when specifically describing the Lord's Supper. |
 
 ## Possessive apostrophe
 An _’s_ is added straight after names normally ending with a letter _s_, when they possess something. For example: _“Jesus's teaching.”_

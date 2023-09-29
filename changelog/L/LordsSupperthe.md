@@ -5,4 +5,4 @@ The following sentence was dropped because it is difficult to tell whether it wi
 - “Participation” is the translation of the Greek word koinonia, so often rendered “fellowship” in NT passages. 
 
 ## Other
-84 changes were made, meant to simplify the text without changing its meaning.
+85 changes were made, meant to simplify the text without changing its meaning.
