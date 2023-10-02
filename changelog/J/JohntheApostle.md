@@ -10,7 +10,7 @@ The following sentence was dropped because it seemed unnecessary to the general 
 
 The following Bible verse has been changed from one translation to another, in an attempt to make it easier to translate:
 
-| Scripture reference | Orignal translation | Replacement translation |
+| Scripture reference | Original translation | Replacement translation |
 | --- | --- | --- |
 | Acts 4:19-20 | RSV | NIV |
 
