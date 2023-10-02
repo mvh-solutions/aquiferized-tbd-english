@@ -8,6 +8,18 @@ These guidelines:
 - Is a transparency tool and may help translators take informed translation choices.
 
 ## Replacements
+Not all formal or rare words are replaced, especially if they have their own article in the Tyndale Bible Dictionary. Replacing a key theological word, for instance, would require a substantial amount of work.
+
+The decision is not always straight forward and may require discussion with the team.
+
+### Preserved words table
+| Preserved word or expression | Note | Exceptions |
+| --- | --- | --- |
+| Ark | As a proper noun ||
+| Tabernacle | As a proper noun ||
+| Remembrance || Use “thankfulness” when specifically describing the Lord's Supper. |
+
+### Replacement table
 | Original word or expression | Replacement | Comment |
 | --- | --- | --- |
 | Decalogue | Ten Commandments ||
@@ -18,6 +30,7 @@ These guidelines:
 | Passion | Suffering ||
 | Preexistence | Existence before time ||
 | Prerogative(s) | Privilege(s) ||
+| Remembrance | Thankfulness | Only and only when specifically describing the Lord's Supper. |
 | Vicarious _(and similar)_  | Substitute _or_ replacement _(and similar)_ ||
 
 ## Possessive apostrophe
