@@ -13,6 +13,7 @@ These guidelines:
 | Decalogue | Ten Commandments ||
 | Epistle, epistle | Letter, letter | The capital _L_ is kept when used in the context of the title of a book of the Bible. |
 | Eschatological _(and similar)_ | End-time(s) | May be preceded by _concerning the_ (and similar) |
+| Incarnate | In flesh ||
 | Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 | Passion | Suffering ||
 | Preexistence | Existence before time ||
