@@ -17,6 +17,7 @@ The decision is not always straight forward and may require discussion with the 
 | --- | --- | --- |
 | Ark | As a proper noun ||
 | Tabernacle | As a proper noun ||
+| Transfiguration |||
 | Remembrance || Use “thankfulness” when specifically describing the Lord's Supper. |
 
 ### Replacement table
