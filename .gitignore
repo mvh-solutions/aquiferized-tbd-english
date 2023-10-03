@@ -1,4 +1,10 @@
+# macOS files
 .DS_Store
 .idea
+
+# Temporary work folders (eg. created by scripts)
 backups
 transformed
+
+# Oxygen XML Editor project files
+*.xpr
