@@ -26,12 +26,16 @@ The decision is not always straight forward and may require discussion with the 
 | Decalogue | Ten Commandments ||
 | Epistle, epistle | Letter, letter | The capital _L_ is kept when used in the context of the title of a book of the Bible. |
 | Eschatological _(and similar)_ | End-time(s) | May be preceded by _concerning the_ (and similar) |
+| For | Because ||
+| Hellenist _(and similar)_ | Greek-speaking _(and variants)_ ||
 | Incarnate | In flesh ||
 | Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 | Passion | Suffering ||
 | Preexistence | Existence before time ||
 | Prerogative(s) | Privilege(s) ||
 | Remembrance | Thankfulness | Only and only when specifically describing the Lord's Supper. |
+| Salvific | Saving _or_ Salvation ||
+| Thus | Therefore ||
 | Vicarious _(and similar)_  | Substitute _or_ replacement _(and similar)_ ||
 
 ## Possessive apostrophe
