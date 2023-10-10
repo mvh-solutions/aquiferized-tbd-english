@@ -8,7 +8,7 @@ The following sentence was dropped because it seemed unnecessary to the general 
 
 &nbsp;
 
-The following Bible verse has been changed from one translation to another, in an attempt to make it easier to translate:
+The following Bible verse has been changed from one English translation to another, in an attempt to make it easier to translate into other languages:
 
 | Scripture reference | Original translation | Replacement translation |
 | --- | --- | --- |
