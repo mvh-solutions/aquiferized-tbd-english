@@ -23,6 +23,9 @@ The decision is not always straight forward and may require discussion with the 
 ### Replacement table
 | Original word or expression | Replacement | Comment |
 | --- | --- | --- |
+| Apocalyptic consummation | Conclusion of history | (See replacement for consummation) |
+| Consummation _(and similar)_ | End _or_ fulfillment _(and similar)_ ||
+| Creaturehood | Being a creature ||
 | Decalogue | Ten Commandments ||
 | Epistle, epistle | Letter, letter | The capital _L_ is kept when used in the context of the title of a book of the Bible. |
 | Eschatological _(and similar)_ | End-time(s) | May be preceded by _concerning the_ (and similar) |
@@ -35,6 +38,7 @@ The decision is not always straight forward and may require discussion with the 
 | Prerogative(s) | Privilege(s) ||
 | Remembrance | Thankfulness | Only and only when specifically describing the Lord's Supper. |
 | Salvific | Saving _or_ Salvation ||
+| Theophany | Appearing ||
 | Thus | Therefore ||
 | Vicarious _(and similar)_  | Substitute _or_ replacement _(and similar)_ ||
 
