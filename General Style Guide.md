@@ -38,7 +38,7 @@ The decision is not always straight forward and may require discussion with the 
 | Prerogative(s) | Privilege(s) ||
 | Remembrance | Thankfulness | Only and only when specifically describing the Lord's Supper. |
 | Salvific | Saving _or_ Salvation ||
-| Theophany | Appearing ||
+| Theophany | Divine visitation ||
 | Thus | Therefore ||
 | Vicarious _(and similar)_  | Substitute _or_ replacement _(and similar)_ ||
 
