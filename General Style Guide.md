@@ -32,6 +32,7 @@ The decision is not always straight forward and may require discussion with the 
 | For | Because ||
 | Hellenist _(and similar)_ | Greek-speaking _(and variants)_ ||
 | Incarnate | In flesh ||
+| Intertestamental period | Period between the old and new testaments ||
 | Martyr, martyred, martyrdom _(and similar)_ | Killed for his faith _(and similar)_ | _for_ or _because of_ |
 | Passion | Suffering ||
 | Preexistence | Existence before time ||
