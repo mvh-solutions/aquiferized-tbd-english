@@ -1,0 +1,13 @@
+# What Has Changed In the “Joab” Article
+
+## Major changes 
+Some words or sentences were changed to simplify the understanding for the target audience.
+
+## Other
+The word 'slain' was changed into 'murdered' so that the target audience can understand it better:
+ - Because Abner had slain Joabs brother Asahel (v 23), Joab later killed Abner in revenge…
+ --> Because Abner had murdered Joabs brother Asahel (v 23), Joab later killed Abner in revenge…
+-David praised the slain commander as a prince and a great man…
+-->David praised the murdered commander as a prince and a great man…
+
+
